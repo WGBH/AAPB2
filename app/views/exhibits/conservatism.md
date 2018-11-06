@@ -14,8 +14,8 @@ Historic preservation is more than just saving old buildings from the bulldozer.
 
 <img class="img-circle pull-left" src="https://s3.amazonaws.com/americanarchive.org/exhibits/karaheadshot.jpg"/>
 
-### Kara Zelasko
-Digital Exhibits Intern, American Archive of Public Broadcasting
+### Allison Perlman
+Associate Professor, University of California, Irvine
 
 Conservative journalist Noel Parmentel Jr. was not optimistic about the future of American conservatism. In a 1963 National Educational Television (NET) telecast, [*The American Conservative*](cpb-aacip_512-r785h7cx44), Parmentel lamented the noble fight but dim prospects for success of the American right. “Pulling for the right wing in the end,” he stated, “is like pulling for the New York Mets.” He continued, “It’s the Alamo, it’s the German Army at Stalingrad, it’s Horatio at the bridge.” This view would have resonated with many American conservatives in the early 1960s. They perceived conservatism as a necessary refutation of the postwar liberal consensus and saw mainstream American institutions – especially the major political parties, the mainstream media, and higher education – as so hostile to conservative views that the fight for influence within them would be Herculean. 
 
