@@ -1,6 +1,6 @@
 # Defining Conservatism
 
-2
+3
 
 ## Summary
 
@@ -36,7 +36,7 @@ The disagreements over “what is conservatism” perhaps bear out historian Gre
 
 Yet across many of these histories of conservatism is a recognition that the 1960s, a decade frequently defined by activisms of the left, was in fact a divided decade, in which the Right and the Left took aim at liberalism and what they saw as the failure of American institutions. The NET episodes attest to this. The episodes in this exhibit grapple with this question of definition, of what was conservatism and of what it meant for US culture and politics in the 1960s. To view them together is to see an analogous drawing of lines around legitimate and illegitimate forms of conservatism, and to witness how NET tried to make sense of a movement that it too saw as an important force in American life.
 
-Sources and Suggested Reading
+### Sources and Suggested Reading
 John A. Andrew III, *The Other Side of the Sixties: Young Americans for Freedom and the Rise of
  Conservative Politics* (New Brunswick: Rutgers University Press, 1997).
 Daniel Bell (editor), *The Radical Right: The New American Right Expanded and Updated* (New
