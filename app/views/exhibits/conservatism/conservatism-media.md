@@ -29,27 +29,38 @@ If William F. Buckley, Jr.’s *National Review* distanced conservatism from ext
 To be sure, to view the episodes in this exhibit is to see similar lines being drawn between legitimate and illegitimate expressions of conservatism. But what is perhaps most fascinating about these episodes is, contrary to much of the conservative media that developed in the 1950s and 1960s, they targeted not the like-minded, the potential member, or the future activist, but the NET audience. They illuminate not only the varied ways that NET tried to make sense of conservatism, but how conservatives presented themselves to a variegated audience at a moment when their movement’s impact was uncertain. 
 
 
-#### Tour Our Resources:
+#### Sources and Suggested Reading:
+Benjamin R. Epstein and Arnold Forster, *The Radical Right: Report on the John Birch Society* 
+	and Its Allies (NY: Random House, 1967).
+Heather Hendershot, *Open to Debate: How William F. Buckley Put Liberal America on the 
+	Firing Line* (New York: HarperCollins, 2016).
+Heather Hendershot, *What’s Fair on the Air?: Cold War Right-Wing Broadcasting and the 
+	Public Interest* (Chicago: University of Chicago Press, 2011).
+Nicole Hemmer, “The Dealers and the Darling: Conservative Media and the Candidacy of Barry 
+	Goldwater,” in *Barry Goldwater and the Remaking of the American Political Landscape*, 
+	edited by Elizabeth Tandy Shermer (Tucson: The University of Arizona Press, 2013), 
+	114-143.
+Nicole Hemmer, “From ‘Faith in Facts’ to ‘Fair and Balanced’: Conservative Media, Liberal 
+	Bias, and the Origins of Balance,” in Bruce J. Schulman and Julian E. Zelizer, *Media 
+	Nation: The Political History of News in Modern America* (Philadelphia: University of 
+	Pennsylvania Press, 2017), 126-143
+Nicole Hemmer, *Messengers of the Right: Conservative Media and the Transformation of 
+	American Politics* (Philadelphia: University of Pennsylvania Press, 2016).
+James Brian McPherson, *The Conservative Resurgence and the Press: The Media’s Role in the 
+	Rise of the Right* (Evanston: Northwestern University Press, 2008).
+Matthew Pressman, “Objectivity and Its Discontents: The Struggle for the Soul of American 
+	Journalism in the 1960s and 1970s,” in Bruce J. Schulman and Julian E. Zelizer, *Media 
+	Nation: The Political History of News in Modern America* (Philadelphia: University of 
+	Pennsylvania Press, 2017), 96-113
 
-- 1954—University of Maryland, *New England Renaissance* [Concord Revisited](/catalog/cpb-aacip_500-ks6j5375)
-- 1954—University of Maryland, *New England Renaissance* [Family Traditions](/catalog/cpb-aacip_500-zp3vzm5v)
-- 1956—WNYC, *International Interview* [Alexander Hamilton](/catalog/cpb-aacip_80-87pnwmp2)
-- 1969—Pacifica Radio Archives, [Radio Free Alcatraz](/catalog/cpb-aacip_28-5717m0482m)
-- 1977—WSYO, [National Landmark Proposal at Kent State University](/catalog/cpb-aacip_27-bc3st7f618)
-- 1980—Louisiana Public Broadcasting, *The State We're In* [The Rural Life Museum](/catalog/cpb-aacip_17-601zdp0b)
-- 1987—PBS Hawaii, *Spectrum Hawaii* [Episode 508](/catalog/cpb-aacip_225-149p8fr1)
-- 1989—WXXI, *In and About New York State History* [Episode 101: Upstate Travels- Seneca Falls](/catalog/cpb-aacip_189-676t1p06)
-- 1990—Koahnic Broadcast Corporation, [National Native News Special](/catalog/cpb-aacip_206-2259zzbn)
-- 1991—Koahnic Broadcast Corporation, [National Native News Special](/catalog/cpb-aacip_260-95j9kpxr)
-- 1997—Mississippi Public Broadcasting, *Open Air* [Farish Street Preservation](/catalog/cpb-aacip_60-75r7t0n4)
-- 1999—Maryland Public Broadcasting, [*Newsnight Maryland*](/catalog/cpb-aacip_394-89280rhk)
-- 2011-South Carolina Educational Television, [*Connections*](/catalog/cpb-aacip_41-225b0636)
+
+
 
 
 #### Additional Resources:
 
-- [Cultural Resource Management Guide: <em>Placing Women in the Past</em>](http://npshistory.com/newsletters/crm/crm-v20n3.pdf)
-- [National Trust for Hisotric Preservation's Primer *Preserving African American Historic Places*](https://forum.savingplaces.org/connect/community-home/librarydocuments/viewdocument?DocumentKey=05e18aad-7c97-4def-aa42-744dc2344714)
+- [*Firing Line* Broadcasts, Hoover Institution](https://www.hoover.org/library-archives/collections/firing-line)
+-
 
 #### Next: [*To Plan or Preserve?* Historic Preservation in the Wake of Urban Renewal](/exhibits/historic-preservation/urban-renewal)
 
