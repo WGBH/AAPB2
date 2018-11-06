@@ -9,7 +9,7 @@
   <caption align="bottom" class="exhibit-caption">NET Logo, 1965.</caption>
   <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/ellisisland.png" alt="Awaiting examination, Ellis Island. Ellis Island New Jersey New York, ca. 1907. [Between and 1921] Photograph. Retrieved from the Library of Congress."/></td></tr>
 </table>
-*Regional Report: The John Birch Society,* telecast by NET in 1965, elicited strong, mixed reactions from NET’s affiliated stations and viewers of the telecast. Affiliates were split both over the content of editor Edwin Bayley’s final highly critical comments about the John Birch Society (JBS) and of the wisdom in including such editorials in public affairs telecasts. They also provided differing feedback on how WGBH journalist Jim Fleming conducted himself in his interview with Robert Welch, founder of the JBS, which constituted the final 40 minutes or so of the program.[<sup>1</sup>](/exhibits/conservatism/notes#1)
+[*Regional Report: The John Birch Society,*](cpb-aacip_512-ft8df6m068) telecast by NET in 1965, elicited strong, mixed reactions from NET’s affiliated stations and viewers of the telecast. Affiliates were split both over the content of editor Edwin Bayley’s final highly critical comments about the John Birch Society (JBS) and of the wisdom in including such editorials in public affairs telecasts. They also provided differing feedback on how WGBH journalist Jim Fleming conducted himself in his interview with Robert Welch, founder of the JBS, which constituted the final 40 minutes or so of the program.[<sup>1</sup>](/exhibits/conservatism/notes#1)
 
 While NET did receive letters from viewers that praised how the program gave voice to conservative views, by and large viewer mail tended toward the critical. Earl Patrick of Pompton Plains, New Jersey contrasted an NET program on Harlem with the Regional Report episode, asking for a comparison between the crime rate of “your friends in Harlem” and that of members of the JBS, and suggesting that “If you are anxious to shed tears for someone, I suggest you shed them for the very decent people who shoulder their responsibilities, support their families, maintain clean houses, clean children, and clean communities, pay taxes to support those who will not meet their obligations.” Rosemary Cooper of Elmhurst New York referred to the program as “treasonous” and ended her letter by hoping that “someday soon you will change your left wing ideology and join with the patriots.” A. Marie Hannon of Chicago telegraphed her disapproval of the program in her letter’s salutation, “HATE MONGERS.”[<sup>2</sup>](/exhibits/conservatism/notes#2) 
 
@@ -40,10 +40,34 @@ The programs in this exhibit thus circulated not only in the context of the incr
 
 
 
-#### Additional Resources:
+#### Sources and Suggested Reading:
 
-- [Cultural Resource Management Guide: <em>Placing Women in the Past</em>](http://npshistory.com/newsletters/crm/crm-v20n3.pdf)
-- [National Trust for Hisotric Preservation's Primer *Preserving African American Historic Places*](https://forum.savingplaces.org/connect/community-home/librarydocuments/viewdocument?DocumentKey=05e18aad-7c97-4def-aa42-744dc2344714)
+Sources and Suggested Reading
+Robert K. Avery and Robert Pepper, “An Institutional History of Public Broadcasting,” *Journal 
+	of Communications* 30.3 (1980): 126-138.
+Robert K. Avery and Robert Pepper, *The Politics of Interconnection: A History of Public 
+	Television at the National Level* (Washington, DC: National Association of Educational 
+	Broadcasters, 1979).
+Carolyn N. Brooks, *Documentary Programming and the Emergence of the National Educational 
+	Television Center as a Network, 1958-1972*, unpublished dissertation, University of 
+	Wisconsin-Madison, 1994.
+James Day, *The Vanishing Vision: The Inside Story of Public Television* (Berkeley: University of 
+	California Press, 1995).
+Ralph Engelman, *Public Radio and Television in America: A Political History* (Thousand Oaks: 
+	Sage Publications, 1996).
+James Ledbetter, *Made Possible By . . .: The Death of Public Broadcasting in the United States* 
+	(New York: Verso, 1998).
+Laurie Ouellette, *Viewers Like You?: How Public TV Failed the People* (New York: Columbia 
+	University Press, 2002).
+Allison Perlman, *Public Interests: Media Advocacy and Struggles Over US Television* (New 
+	Brunswick: Rutgers University Press, 2016).
+David M. Stone, *Nixon and the Politics of Public Television* (New York: Garland Publishing,
+ Inc., 1985).
+John Witherspoon, Roselle Kovitz, Robert K. Avery, and Alan G. Stavitsky, *A History of Public 
+	Broadcasting* (Washington, DC: Current, 2000).
+Donald N. Wood, “The First Fifteen Years of the ‘Fourth Network,’” *Journal of Broadcasting* 
+	13.2 (1969): 131-144.
+
 
 #### Next: [*To Plan or Preserve?* Historic Preservation in the Wake of Urban Renewal](/exhibits/historic-preservation/urban-renewal)
 
