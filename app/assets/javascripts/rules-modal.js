@@ -1,3 +1,3 @@
-$(document).on('turbolinks:load', function() {
+$(document).ready(function() {
   $('#rules-modal').modal({keyboard: false});
 });

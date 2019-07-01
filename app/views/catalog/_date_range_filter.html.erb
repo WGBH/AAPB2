@@ -4,7 +4,7 @@
 
     <div class="<% if(params['exact_or_range'].blank?) %>collapsed <% end %> collapse-toggle panel-heading" data-toggle="collapse" aria-expanded="true">
       <h4 class="panel-title facet-field-heading">
-        <a style="text-decoration: none; padding-left: 15px; padding-bottom: 5px; font-size: 14px; font-weight: 700; color: #292a72;" data-turbolinks="false" data-no-turbolink="true" href="#">Date</a>
+        <a style="text-decoration: none; padding-left: 15px; padding-bottom: 5px; font-size: 14px; font-weight: 700; color: #292a72;" href="#">Date</a>
       </h4>
     </div>
     <div id="facet-asset_date" class="panel-collapse facet-content <% if(params['exact_or_range'].blank?) %>collapse <% end %>" aria-expanded="true" style="">
@@ -60,7 +60,7 @@
         <% end %>
 
         <script type="application/javascript">
-        $( document ).on('turbolinks:load', function() {
+        $( document ).ready(function() {
           // Create the event handler to toggle whether the filter is using an
           // exact date or a date range.
           var exact_or_range_event_handler = function(_event) {
