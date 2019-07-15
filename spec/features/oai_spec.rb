@@ -2,11 +2,6 @@ require 'rails_helper'
 require_relative '../../scripts/lib/pb_core_ingester'
 
 describe 'OAI-PMH' do
-  # commenting this out because we don't appear to be using the fxtures in the test.
-  # before(:all) do
-  #   PBCoreIngester.load_fixtures
-  # end
-
   it 'loads the index page' do
     visit '/oai.xml?verb=ListRecords'
     expect(page.status_code).to eq(200)

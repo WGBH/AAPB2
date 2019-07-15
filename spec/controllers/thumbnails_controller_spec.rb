@@ -1,15 +1,7 @@
 require 'rails_helper'
-# require_relative '../../lib/aapb'
 require_relative '../../scripts/lib/pb_core_ingester'
 
 describe ThumbnailsController do
-  # commenting this out because we don't appear to be using the fxtures in the test.
-  # redirect in test should bypass the need for an actual ingest
-
-  # before(:all) do
-  #   PBCoreIngester.load_fixtures
-  # end
-
   describe 'redirection' do
     it 'speeds up redirects (cached response returns in <20ms)' do
       get 'show', id: '1234'

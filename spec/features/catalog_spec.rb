@@ -122,7 +122,6 @@ describe 'Catalog' do
           ['producing_organizations', 4, 'KQED-TV (Television station : San Francisco, Calif.)', 1]
         ]
 
-        # xit-ing as this appears to be standard Blacklight functionality
         xit 'has them all' do
           visit "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}"
           expect(
@@ -134,7 +133,6 @@ describe 'Catalog' do
         assertions.each do |facet, facet_count, value, value_count|
           url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
 
-          # xit-ing as this appears to be standard Blacklight functionality
           xit "#{facet}=#{value}: #{value_count}\t#{url}" do
             visit url
 
@@ -171,7 +169,6 @@ describe 'Catalog' do
           assertions.each do |facet, value, value_count|
             url = "/catalog?f[#{facet}][]=#{value}"
 
-            # xit-ing as this appears to be standard Blacklight functionality
             xit "#{facet}=#{value}: #{value_count}\t#{url}" do
               visit url
               expect_count(value_count)
@@ -194,7 +191,6 @@ describe 'Catalog' do
             url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&f[#{facet}][]=#{value}"
 
             describe "visiting #{url}" do
-              # xit-ing as this appears to be standard Blacklight functionality
               xit "has #{value_count} results" do
                 visit url
                 expect_count(value_count)
@@ -205,16 +201,7 @@ describe 'Catalog' do
 
         it 'works in the UI' do
           visit '/catalog?f[access_types][]=online'
-
-          # commenting out as this appears to be standard Blacklight functionality
-          # expect_count(10)
-          # expect(page).to have_text('You searched for: Access online'), missing_page_text_custom_error('You searched for: Access online', page.current_path)
-
           click_link('All Records')
-          # commenting out as this appears to be standard Blacklight functionality
-          # expect_count(43)
-          # expect(page).to have_text('You searched for: Access all'), missing_page_text_custom_error('You searched for: Access all', page.current_path)
-
           expect(page).to have_field('KQED__CA__KQED__CA_', checked: false)
           click_link('KQED (CA)')
           expect(page).to have_field('KQED__CA__KQED__CA_', checked: true)
@@ -290,7 +277,6 @@ describe 'Catalog' do
           assertions.each do |query, titles|
             url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&q=#{query}"
 
-            # xit-ing out as this appears to be standard Blacklight functionality
             xit "sort=score+desc: #{titles}\t#{url}" do
               visit url
               expect(page.status_code).to eq(200)
@@ -309,7 +295,6 @@ describe 'Catalog' do
           assertions.each do |sort, title|
             url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&sort=#{sort}"
 
-            # xit-ing out as this appears to be standard Blacklight functionality
             xit "sort=#{sort}: '#{title}'\t#{url}" do
               visit url
               expect(
@@ -329,7 +314,6 @@ describe 'Catalog' do
         describe 'sorting, title edge cases' do
           url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&sort=title+asc&per_page=50"
 
-          # xit-ing out as this appears to be standard Blacklight functionality
           xit 'works' do
             visit url
             expect(page.status_code).to eq(200)
@@ -434,7 +418,6 @@ describe 'Catalog' do
 
     it 'has thumbnails if outside_url' do
       visit '/catalog/1234'
-      # expect_all_the_text('clean-MOCK.xml')
       expect_thumbnail('1234') # has media, but also has outside_url, which overrides.
       expect_no_media
       expect_external_reference
@@ -547,7 +530,6 @@ describe 'Catalog' do
         search_url = "/catalog?f[access_types][]=#{PBCore::ALL_ACCESS}&&q=#{id.gsub(/^(.*\W)?(\w+)$/, '\2')}"
         # because of tokenization, unless we strip the ID down we will get other matches.
 
-        # xit-ing out as this appears to be standard Blacklight functionality
         xit "search: #{search_url}" do
           visit search_url
           expect(page.status_code).to eq(200)
