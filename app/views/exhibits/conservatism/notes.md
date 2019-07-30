@@ -5,7 +5,9 @@
 
 ## Summary
 
-<a name="1"></a><sup>1</sup> Individual Program Data Sheet, “The Radical Americans,” located in the WNET Collection, National Public Broadcasting Archives, University of Maryland-College Park, Box 13, Folder 3. 
+<a name="1"></a><sup>1</sup> See, for example, George Nash, *The Conservative Intellectual Movement in America Since 1945* (New York: Basic Books Inc., Publishers, 1976); Lisa McGirr, *Suburban Warriors: The Origins of the American New Right* (Princeton: Princeton University Press, 2002); David Farber, *The Rise and Fall of American Conservatism: A Short History* (Princeton: Princeton University Press, 2012).
+
+Individual Program Data Sheet, “The Radical Americans,” located in the WNET Collection, National Public Broadcasting Archives, University of Maryland-College Park, Box 13, Folder 3. 
 
 
 <a name="2"></a><sup>2</sup> Memorandum to Station Managers and Program Managers from Field Services. “Program Evaluation Summary: ‘Regional Report: The John Birch Society,’” September 13, 1965. Located in the National Educational Television Collection at the Wisconsin Historical Society, Series 2B, Box 7, Folder 1.
