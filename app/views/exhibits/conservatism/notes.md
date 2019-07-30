@@ -9,7 +9,9 @@
 
 <a name="2"></a><sup>2</sup> See the contributions to "James Baldwin, William F. Buckley Jr., and the American Dream: A Symposium," in *American Political Thought: A Journal of Ideas, Institutions, and Culture* 6.4 (2012). While many of the contributors believe Baldwin won, Patrick Allitt makes the case in his contribution for Buckley as the winner. See his "Buckley, Baldwin, and the Decline of Conservative Racism" in this issue.
 
-Individual Program Data Sheet, “The Radical Americans,” located in the WNET Collection, National Public Broadcasting Archives, University of Maryland-College Park, Box 13, Folder 3. 
+<a name="3"></a><sup>3</sup> Direct cinema refers to a style of documentary filmmaking to emerge in the 1950s and 1960s facilitated by the development of small, lightweight film cameras. Direct cinema documentaries present viewers with a fly-on-the-wall perspective on events as they unfold. They typically eschew voice-over narration and direct-to-camera interviews. For a discussion, see Erik Barnouw, *Documentary: A History of the Non-Fiction Film* (New York: Oxford University Press, 1993), chapter 5.
+
+<a name="4"></a><sup>4</sup> Individual Program Data Sheet, “The Radical Americans,” located in the WNET Collection, National Public Broadcasting Archives, University of Maryland-College Park, Box 13, Folder 3. 
 
 
 <a name="2"></a><sup>2</sup> Memorandum to Station Managers and Program Managers from Field Services. “Program Evaluation Summary: ‘Regional Report: The John Birch Society,’” September 13, 1965. Located in the National Educational Television Collection at the Wisconsin Historical Society, Series 2B, Box 7, Folder 1.
