@@ -52,7 +52,7 @@ James Brian McPherson, *The Conservative Resurgence and the Press: The Media’s
 Matthew Pressman, “Objectivity and Its Discontents: The Struggle for the Soul of American 
 	Journalism in the 1960s and 1970s,” in Bruce J. Schulman and Julian E. Zelizer, *Media 
 	Nation: The Political History of News in Modern America* (Philadelphia: University of 
-	Pennsylvania Press, 2017), 96-113
+	Pennsylvania Press, 2017), 96-113.
 
 
 
