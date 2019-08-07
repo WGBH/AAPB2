@@ -71,17 +71,17 @@ Rowman and Littlefield, 2009).
 
 <a name="32"></a><sup>32</sup> See Heather Cox Richardson, *To Make Men Free: A History of the Republican Party* (New York: Basic Books, 2014) chapter 2.
 
-<a name="33"></a><sup>33</sup> 
+<a name="33"></a><sup>33</sup> Lewis L. Gould, *The Republicans: A History of the Grand Old Party* (New York: Oxford University Press, 2014), 237-39; Richardson, *To Make Men Free,* 225-39.
 
-<a name="34"></a><sup>34</sup> 
+<a name="34"></a><sup>34</sup> See Donald T. Critchlow, *Phyllis Schlafly and Grassroots Conservatism* (Princeton: Princeton University Press, 2005), 109-113.
 
-<a name="35"></a><sup>35</sup> 
+<a name="35"></a><sup>35</sup> Mary C. Brennan, *Turning Right in the Sixties: The Conservative Capture of the GOP* (Chapel Hill: The University of North Carolina Press, 1995), chapter 2.
 
-<a name="36"></a><sup>36</sup> See Robert Mann, *Daisy Petals and Mushroom Clouds: LBJ, Barry Goldwater, and the Ad that Changed American Politics* (Baton Rouge: Louisiana State University Press, 2011).
+<a name="36"></a><sup>36</sup> See Jonathen M. Schoenwald, *A Time for Choosing: The Rise of Modern American Conservatism* (New York: Oxford University Press, 2001), 195-98; Matthew Dallek, *The Right Moment: Ronald Reagan's First Victory and the Decisive Turning Point in American Politics* (New York: Oxford University Press, 2004), 66-69.
 
-<a name="37"></a><sup>37</sup> Quoted in Elizabeth Tandy Shermer, “Introduction,” *Barry Goldwater and the Remaking of the American Political Landscape* (Tucson: University of Arizona Press, 2013), 1.
+<a name="37"></a><sup>37</sup> See Robert Mann, *Daisy Petals and Mushroom Clouds: LBJ, Barry Goldwater, and the Ad that Changed American Politics* (Baton Rouge: Louisiana State University Press, 2011).
 
-<a name="38"></a><sup>38</sup> 
+<a name="38"></a><sup>38</sup> Quoted in Elizabeth Tandy Shermer, “Introduction,” *Barry Goldwater and the Remaking of the American Political Landscape* (Tucson: University of Arizona Press, 2013), 1.
 
 <a name="39"></a><sup>39</sup> Donald T. Critchlow, "The Rise of Conservative Republicanism: A History of Fits and Starts," in Robert Mason and Iwan Morgan, eds., *Seeking a New Mojority: The Republican Party and American Politics, 1960-1980* (Nashville: Vanderbilt University Press, 2013): 13-31.
 
@@ -89,8 +89,7 @@ Rowman and Littlefield, 2009).
 
 <a name="41"></a><sup>41</sup> “The Apologist,” *Time*, October 31, 1969, p77.
 
-<a name="42"></a><sup>42</sup> Barry M. Goldwater, *The Conscience of a Conservative* (Princeton: Princeton University Press, 
-	2007, first published 1960 by Victor Publishing Co., 1960). See especially chapter 4.
+<a name="42"></a><sup>42</sup> Barry M. Goldwater, *The Conscience of a Conservative* (Princeton: Princeton University Press, 2007, first published 1960 by Victor Publishing Co., 1960). See especially chapter 4.
   
 <a name="43"></a><sup>43</sup> William F. Buckley, Jr., "Why the South Must Prevail," *National Review*, August 24, 1957, pp148-49.
 
@@ -109,13 +108,13 @@ Rowman and Littlefield, 2009).
 
 <a name="50"></a><sup>50</sup> Heather Hendershot, *What’s Fair on the Air?: Cold War Right-Wing Broadcasting and the Public Interest* (Chicago: University of Chicago Press, 2011). On Hargis and sex education, see Janice M. Irvine, *Talk About Sex: The Battles Over Sex Education in the United States* (Berkeley: University of California Press, 2012), chapter 2.
 
-<a name="51"></a><sup>51</sup> David Farber and Jeff Roche, "Introduction, in *The Conservative Sixties* (New York: Peter Lang, 2003), 3.
+<a name="51"></a><sup>51</sup> David Farber and Jeff Roche, "Introduction," in *The Conservative Sixties* (New York: Peter Lang, 2003), 3.
 
-<a name="52"></a><sup>52</sup> Sam Lebovic, "When the 'Mainstream Media' Was Conservative: Media Criticism in the Age of Reform," in Bruce J. Schulman and Julian E, Zelizer, eds. *Media Nation: The Political History of News in Modern America* (Philadelphia: University of Pennsyvlania Press, 2017), 63-76.
+<a name="52"></a><sup>52</sup> Sam Lebovic, "When the 'Mainstream Media' Was Conservative: Media Criticism in the Age of Reform," in Bruce J. Schulman and Julian E, Zelizer, eds. *Media Nation: The Political History of News in Modern America* (Philadelphia: University of Pennsyvlania Press, 2017), 63-76; Nicole Hemmer, “From ‘Faith in Facts’ to ‘Fair and Balanced’: Conservative Media, Liberal  Bias, and the Origins of Balance,” in Bruce J. Schulman and Julian E. Zelizer, eds. *Media Nation: The Political History of News in Modern America* (Philadelphia: University of Pennsylvania Press, 2017), 126-43.
 
 <a name="53"></a><sup>53</sup> Nicole Hemmer, *Messengers of the Right: Conservative Media and the Transformation of American Politics* (Philadelphia: University of Pennsylvania Press, 2016).
 
-<a name="54"></a><sup>54</sup> Nicole Hemmer, “From ‘Faith in Facts’ to ‘Fair and Balanced’: Conservative Media, Liberal  Bias, and the Origins of Balance,” in Bruce J. Schulman and Julian E. Zelizer, eds. *Media Nation: The Political History of News in Modern America* (Philadelphia: University of Pennsylvania Press, 2017), 126-43.
+<a name="54"></a><sup>54</sup> Nicole Hemmer, "The Dealers and the Darling: Conservative Media and the Candidacy of Barry Goldwater," in Elizabeth Tandy Shermer ed., *Barry Goldwater and the Remaking of the American Political Landscape* (Tucson: University of Arizona Press, 2013), 114-43.
 
 <a name="55"></a><sup>55</sup> Edith Efron, *The News Twisters* (Los Angeles: Nash Publishing, 1971), 47.
 
