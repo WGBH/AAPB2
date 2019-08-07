@@ -24,7 +24,7 @@
 
 <a name="9"></a><sup>9</sup> John White Interivew with Jim Robertson, p21; Jim Roberston Papers, National Public Broadcasting Archives, University of Maryland-College Park, Box 3, Folder 14; James Day, *The Vanishing Vision: The Inside Story of Public Television* (Berkeley: University of California Press, 1995), 68-69; Donald N. Wood, "The First Fifteen Years of the 'Fourth Network,'" *Journal of Broadcasting* 13 (1968-1969), 133-135.
 
-<a name="10"></a><sup>10</sup> Documentary Programming and the Emergence of the National Educational Television Center as a Network, 1958-1972” (PhD diss., University of Wisconsin-Madison, 1994), 129-134.
+<a name="10"></a><sup>10</sup> Carolyn N. Brooks, "Documentary Programming and the Emergence of the National Educational Television Center as a Network, 1958-1972” (PhD diss., University of Wisconsin-Madison, 1994), 129-134.
 
 <a name="11"></a><sup>11</sup> Some NET Programs on these topcis include: *LSD: Lettvin vs. Leary*; *A Time For Burning*; *Black Natchez*; *NET Journal: Midsummer 1967*; *NET Journal: Report From Cuba*; *NET Journal: Fidel*; *NET Journal: North Vietnam*.
 
