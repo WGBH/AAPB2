@@ -13,7 +13,6 @@
 
 <a name="4"></a><sup>4</sup> Individual Program Data Sheet, “The Radical Americans,” located in the WNET Collection, National Public Broadcasting Archives, University of Maryland-College Park, Box 13, Folder 3. 
 
-
 <a name="5"></a><sup>5</sup> Memorandum to Station Managers and Program Managers from Field Services. “Program Evaluation Summary: ‘Regional Report: The John Birch Society,’” September 13, 1965. Located in the National Educational Television Collection at the Wisconsin Historical Society, Series 2B, Box 7, Folder 1.
 
 <a name="6"></a><sup>6</sup> Letters can be found in the National Educational Television collection at the Wisconsin Historical Society, Series 2B, Box 6, Folder 14.
@@ -34,11 +33,11 @@
 
 <a name="14"></a><sup>14</sup> See for example letters to William Kobin, NET Vice President for Programming in the National Educational Television collection at the Wisconsin Historical Society, Series 8A, Box 1A, Folders 2, 4, 10, and 12.
 
-<a name="15"></a><sup>15</sup> John White, statement for affiliates, in the National Educational Television collection at the Wisconsin Historical Society, Series 2A, Box 11, Folder 2.
+<a name="15"></a><sup>15</sup> John White, Statement for affiliates, in the National Educational Television collection at the Wisconsin Historical Society, Series 2A, Box 11, Folder 2.
 
-<a name="16"></a><sup>16</sup> Seymour Martin Lipset, “The Sources of the ‘Radical Right’ (1955),” in *The Radical Right: The New American Right* Expanded and Updated, edited by Daniel Bell (Garden City: Doubleday and Company, Inc., 1963): 259-312.
+<a name="16"></a><sup>16</sup> Seymour Martin Lipset, “The Sources of the ‘Radical Right’ (1955),” in *The Radical Right: The New American Right* Expanded and Updated, edited by Daniel Bell (Garden City: Doubleday and Company, Inc., 1963), 259-312.
 
-<a name="17"></a><sup>17</sup> Richard Hofstadter, “The Pseudo-Conservative Revolt (1955),” in *The Radical Right: The New American Right* Expanded and Updated, edited by Daniel Bell (Garden City: Doubleday and Company, Inc., 1963):63-80.
+<a name="17"></a><sup>17</sup> Richard Hofstadter, “The Pseudo-Conservative Revolt (1955),” in *The Radical Right: The New American Right* Expanded and Updated, edited by Daniel Bell (Garden City: Doubleday and Company, Inc., 1963), 63-80.
 
 <a name="18"></a><sup>18</sup> Richard Hofstadter, [“The Paranoid Style in American Politics,” Harper’s Magazine (November 1964)](https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/)
 
@@ -62,7 +61,7 @@
 
 <a name="28"></a><sup>28</sup> Donald L. Critchlow, “The Conservative Ascendancy,” in *Debating the American Conservative Movement: 1945 to the Present* (Lanham: Rowman and Littlefield Publishers, Inc., 2009), 9. 
 
-<a name="29"></a><sup>29</sup> Nancy MacLean, "Guardians of Privilege," in *Debating the American Conservative Movement: 1945 to the Present* (Lanham: Rowman and Littlefield Publishers, Inc., 2009): 123-170.
+<a name="29"></a><sup>29</sup> Nancy MacLean, "Guardians of Privilege," in *Debating the American Conservative Movement: 1945 to the Present* (Lanham: Rowman and Littlefield Publishers, Inc., 2009), 123-170.
 
 <a name="30"></a><sup>30</sup> Gregory L. Schneider, *The Conservative Century: From Reaction to Revolution* (Lanham: 
 Rowman and Littlefield, 2009).
@@ -93,16 +92,15 @@ Rowman and Littlefield, 2009).
   
 <a name="43"></a><sup>43</sup> William F. Buckley, Jr., "Why the South Must Prevail," *National Review*, August 24, 1957, pp148-49.
 
-<a name="44"></a><sup>44</sup> Joseph Lowndes, "William F. Buckley, Jr.: Anti-Blackness as Anti-Democracy," *American Political Thought: A Journal of Ideas, Institutions, and Culture* 6, no. 4 (2017): 632-40.
+<a name="44"></a><sup>44</sup> Joseph Lowndes, "William F. Buckley, Jr.: Anti-Blackness as Anti-Democracy," *American Political Thought: A Journal of Ideas, Institutions, and Culture* 6, no. 4 (2017), 632-40.
 
 <a name="45"></a><sup>45</sup> Ibid. See also William Hogeland, "William Buckley's Legacy in the Politics of Denial and the Denial of Politics," *American Political Thought: A Journal of Ideas, Institutions, and Culture* 6, no. 4 (2017): 657-64; John B. Judis, *William F. Buckley, Jr.: Patron Saint of the Conservatives* (New York: Simon & Schuster, 1988), 191-93.
 
 <a name="46"></a><sup>46</sup> D.J. Mulloy, *The World of the John Birch Society: Conspiracy, Conservatism, and the Cold War* (Nashville: Vanderbilt University Press, 2014). See especially chapter 4. See also Benjamin R. Epstein and Arnold Foster, *The Radical Right: Report on the John Birch Society* (New York: Random House, 1967), 95-106.
 
-<a name="47"></a><sup>47</sup> Timothy N. Thurber, "Race, Region, and the Shadow of the New Deal," in Robert Mason and Iwan Morgan, eds.,  *Seeking a New Mojority: The Republican Party and American Politics, 1960-1980* (Nashville: Vanderbilt University Press, 2013): 32-56.
+<a name="47"></a><sup>47</sup> Timothy N. Thurber, "Race, Region, and the Shadow of the New Deal," in Robert Mason and Iwan Morgan, eds.,  *Seeking a New Mojority: The Republican Party and American Politics, 1960-1980* (Nashville: Vanderbilt University Press, 2013), 32-56.
 
-<a name="48"></a><sup>48</sup> Leah Wright Rigeur, *The Loneliness of the Black Republican: Pragmatic Politics and the Pursuit 
-	of Power* (Princeton: Princeton University Press, 2015).
+<a name="48"></a><sup>48</sup> Leah Wright Rigeur, *The Loneliness of the Black Republican: Pragmatic Politics and the Pursuit of Power* (Princeton: Princeton University Press, 2015).
   
 <a name="49"></a><sup>49</sup> Ibid., 23.
 
