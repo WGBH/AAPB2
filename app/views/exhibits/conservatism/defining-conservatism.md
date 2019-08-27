@@ -2,13 +2,7 @@
 
 3
 
-## Summary
-
 ## Extended
-<table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">Awaiting examination, Ellis Island. Ellis Island New Jersey New York, ca. 1907. [Between and 1921] Photograph. Retrieved from the Library of Congress.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/ellisisland.png" alt="Awaiting examination, Ellis Island. Ellis Island New Jersey New York, ca. 1907. [Between and 1921] Photograph. Retrieved from the Library of Congress."/></td></tr>
-</table>
 
 Across five episodes in 1970, NET sought to define conservatism. Entitled “Conservative Viewpoint,” these programs enlisted conservative journalists, politicians, professors, intellectuals, and advocates to outline the conservative position on issues ranging from the principles that should guide US foreign policy to the legitimacy of student protest on college campuses across the country. Moderated by political scientist Sidney Hyman – a self-described liberal – and filmed in Chicago, these episodes hinged on seeing conservatism as a coherent worldview that would be best explained to viewers by a number of the leading thinkers who not only embraced it, but who saw conservatism as the answer to the problems facing the nation at the end of a highly tumultuous decade.
 
@@ -84,6 +78,6 @@ Daniel K. Williams, *God’s Own Party: The Making of the Christian Right* (New 
 	University Press, 2010).
 
 
-#### Next: [*To Plan or Preserve?* Historic Preservation in the Wake of Urban Renewal](/exhibits/historic-preservation/urban-renewal)
+#### Next: [Conservatism and the Republican Party](/exhibits/conservatism/conservatism-GOP)
 
 ## Main
