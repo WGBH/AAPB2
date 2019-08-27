@@ -1,13 +1,8 @@
 # Conservatism and the Media
 6
 
-## Summary
 
 ## Extended
-<table class="exhibit-image">
-  <caption align="bottom" class="exhibit-caption">Awaiting examination, Ellis Island. Ellis Island New Jersey New York, ca. 1907. [Between and 1921] Photograph. Retrieved from the Library of Congress.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/ellisisland.png" alt="Awaiting examination, Ellis Island. Ellis Island New Jersey New York, ca. 1907. [Between and 1921] Photograph. Retrieved from the Library of Congress."/></td></tr>
-</table>
 
 H.L. Hunt, the subject of a 1967 [*NET Journal*](/catalog/cpb-aacip_512-j96057dt9d) profile, was a person of interest to NET for a number of reasons. At the time, one of the wealthiest men in the US – his fortune was comparable to those of princes in the Middle East – Hunt made his fortune in oil in Texas, expanded Hunt Oil Company across the nation, and developed additional businesses, including HLH Products a food processing subsidiary of Hunt Oil. HLH Products sponsored the Lifeline radio program, carried by over 400 stations, which both promoted Hunt’s conservative ideas and attacked individuals whose perspectives differed. According to William Latelle, president of Wesleyan University and interviewed in the *NET Journal* episode, Lifeline conflated liberalism with communism and suggested that those who advocated for, or were beneficiaries of, social programs were co-conspirators in a socialist plot to undermine the nation. As *NET Journal* makes clear, Lifeline was but one of many outlets Hunt deployed to disseminate his political views, which included films, newspaper columns, pamphlets and four books.
 
@@ -62,7 +57,5 @@ Matthew Pressman, “Objectivity and Its Discontents: The Struggle for the Soul 
 
 - [*Firing Line* Broadcasts, Hoover Institution](https://www.hoover.org/library-archives/collections/firing-line)
 
-
-#### Next: [*To Plan or Preserve?* Historic Preservation in the Wake of Urban Renewal](/exhibits/historic-preservation/urban-renewal)
 
 ## Main
