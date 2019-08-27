@@ -65,6 +65,6 @@ Donald N. Wood, “The First Fifteen Years of the ‘Fourth Network,’” *Jour
 	13.2 (1969): 131-144.
 
 
-#### Next: [*Conservatism and the Republican Party](/exhibits/conservatism/conservatism-GOP)
+#### Next: [Defining Conservatism](/exhibits/conservatism/defining-conservatism)
 
 ## Main
