@@ -39,6 +39,6 @@ In addition, the NET programs provide a complex view into how public media tried
 
 
 
-#### Next: [*The Politics of NET*](/exhibits/conservatism/)
+#### Next: [*The Politics of NET*](/exhibits/conservatism/politcs-net)
 
 ## Main
