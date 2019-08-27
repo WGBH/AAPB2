@@ -2,13 +2,9 @@
 
 2
 
-## Summary
+
 
 ## Extended
-<table class="NET">
-  <caption align="bottom" class="exhibit-caption">NET Logo, 1965.</caption>
-  <tr><td><img src="https://s3.amazonaws.com/americanarchive.org/exhibits/ellisisland.png" alt="Awaiting examination, Ellis Island. Ellis Island New Jersey New York, ca. 1907. [Between and 1921] Photograph. Retrieved from the Library of Congress."/></td></tr>
-</table>
 [*Regional Report: The John Birch Society,*](/catalog/cpb-aacip_512-ft8df6m068) telecast by NET in 1965, elicited strong, mixed reactions from NET’s affiliated stations and viewers of the telecast. Affiliates were split both over the content of editor Edwin Bayley’s closing highly critical comments about the John Birch Society (JBS) and of the wisdom of including such editorials in public affairs telecasts. They also provided differing feedback on how WGBH journalist Jim Fleming conducted himself in his interview with Robert Welch, founder of the JBS, which constituted the final 40 minutes or so of the program.[<sup>5</sup>](/exhibits/conservatism/notes#5)
 
 While NET did receive letters from viewers that praised how the program gave voice to conservative views, by and large viewer mail tended toward the critical. Earl Patrick of Pompton Plains, New Jersey, contrasted an NET program on Harlem with the Regional Report episode, asking for a comparison between the crime rate of “your friends in Harlem” and that of members of the JBS, and suggesting “If you are anxious to shed tears for someone, I suggest you shed them for the very decent people who shoulder their responsibilities, support their families, maintain clean houses, clean children, and clean communities, pay taxes to support those who will not meet their obligations.” Rosemary Cooper of Elmhurst New York referred to the program as “treasonous” and ended her letter by hoping that “someday soon you will change your left wing ideology and join with the patriots.” A. Marie Hannon of Chicago telegraphed her disapproval of the program in her letter’s salutation, “HATE MONGERS.”[<sup>6</sup>](/exhibits/conservatism/notes#6) 
@@ -69,6 +65,6 @@ Donald N. Wood, “The First Fifteen Years of the ‘Fourth Network,’” *Jour
 	13.2 (1969): 131-144.
 
 
-#### Next: [*To Plan or Preserve?* Historic Preservation in the Wake of Urban Renewal](/exhibits/historic-preservation/urban-renewal)
+#### Next: [*Conservatism and the Republican Party](/exhibits/conservatism/conservatism-GOP)
 
 ## Main
