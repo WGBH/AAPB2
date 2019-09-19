@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # Specify specific version of ruby with which the app is compatible.
-ruby '2.4.6'
+ruby '2.4.7'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.8'
@@ -43,7 +43,7 @@ gem 'spring', :group => :development
 
 # Use Capistrano for deployment
 gem 'capistrano-rails', :group => :development
-gem 'capistrano-passenger', :group => :development
+# gem 'capistrano-passenger', :group => :development
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
@@ -89,10 +89,12 @@ gem 'pry', :group => :development
 gem 'pry-nav', :group => :development
 # gem 'xray-rails', :group => :development
 
-gem 'passenger', :group => :production
+# gem 'passenger', :group => :production
 
 gem 'nokogiri', '~> 1.8.4'
 
 # For upgrade to ruby 2.4
 # Not sure why this is needed
 gem 'bigdecimal'
+
+gem 'puma'

@@ -1,0 +1,17 @@
+version: '3'
+services:
+  web:
+    image: aapb
+    ports:
+      - "3000:3000"
+  nginx:
+    image: test-aapb-nginx
+    ports:
+      - "80:80"
+
+# no jettywrapper if you gon do this!
+#  solr:
+#    image: solr:6.6.6
+
+# volumes:
+  
