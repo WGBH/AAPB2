@@ -13,4 +13,4 @@ RUN apt-get update && apt-get -y install curl libcurl3 libcurl3-openssl-dev open
 
 EXPOSE 3000
 
-CMD ["bundle", "exec", "puma", "-b", "tcp://127.0.0.1:3000", "-C", "config/puma.rb"]
+CMD ["bundle", "exec", "puma", "-b", "unix:///var/puma/puma.sock", "-C", "config/puma.rb"]

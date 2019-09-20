@@ -4,14 +4,17 @@ services:
     image: aapb
     ports:
       - "3000:3000"
+    volumes:
+      - sockets:/var/puma
   nginx:
     image: test-aapb-nginx
     ports:
-      - "80:80"
-
+      - "8080:80"
+    volumes:
+      - sockets:/var/puma
 # no jettywrapper if you gon do this!
 #  solr:
 #    image: solr:6.6.6
 
-# volumes:
-  
+volumes:
+  sockets:
