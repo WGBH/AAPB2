@@ -14,3 +14,7 @@ RUN apt-get update && apt-get -y install curl libcurl3 libcurl3-openssl-dev open
 EXPOSE 3000
 
 CMD ["bundle", "exec", "puma", "-b", "unix:///var/sockets/puma.sock", "-C", "config/puma.rb"]
+#CMD ["bundle", "exec", "puma", "-b", "unix:///var/sockets/puma.sock", "-C", "config/puma.rb", "sleep", "10", "RAILS_ENV=production", "bundle", "exec", "ruby", "scripts/download_clean_ingest.rb", "--stdout-log", "--files", "spec/fixtures/pbcore/clean-*.xml", ]
+
+
+
