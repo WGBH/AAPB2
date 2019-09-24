@@ -5,7 +5,7 @@ and to coordinate a national effort to save at-risk public media before its cont
 
 ### The American Archive of Public Broadcasting: From Repository to Resource
 
-In June 2019, The Andrew W. Mellon Foundation awarded WGBH a grant to enhance usability of the American Archive of Public Broadcasting. The grant will support a two-pronged effort to make the AAPB a better resource for researchers, educators, academics and the public. The AAPB will work with Brandeis University’s Lab for Linguistics and Computation, which uses machine learning and artificial intelligence to develop open-source tools and workflows, to capture detailed metadata from AAPB radio and television programs. [Read more about the Mellon project.](/about-the-american-archive/projects/mellon2)
+In June 2019, The Andrew W. Mellon Foundation awarded WGBH a grant to enhance usability of the American Archive of Public Broadcasting. The grant will support a two-pronged effort to make the AAPB a better resource for researchers, educators, academics and the public. The AAPB will work with Brandeis University's Lab for Linguistics and Computation, which uses machine learning and artificial intelligence to develop open-source tools and workflows, to capture detailed metadata from AAPB radio and television programs. [Read more about the Mellon project.](/about-the-american-archive/projects/mellon2)
 
 ### The Public Broadcasting Preservation Fellowship
 
@@ -21,7 +21,7 @@ In 2016, the National Endowment for the Humanities (NEH) awarded WGBH a Preserva
 
 ### PBS NewsHour Digitization Project
 
-WGBH, the Library of Congress, WETA, and NewsHour Productions, LLC are collaborating to digitize, preserve, and allow public access via the AAPB to 32 years of *PBS NewsHour*’s predecessor programs,
+WGBH, the Library of Congress, WETA, and NewsHour Productions, LLC are collaborating to digitize, preserve, and allow public access via the AAPB to 32 years of *PBS NewsHour*'s predecessor programs,
 including *The Robert MacNeil Report*, *The MacNeil/Lehrer Report*, *The MacNeil/Lehrer NewsHour*, and *The NewsHour with Jim Lehrer*. The project is generously funded by CLIR.
 [Read more about the PBS NewsHour Digitization Project](/about-the-american-archive/projects/newshour).
 

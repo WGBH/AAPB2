@@ -213,7 +213,7 @@ discretion.
 1. WGBH does not permit the infringement of intellectual property rights, 
 including copyright, on its Site, and WGBH will remove Content (including User 
 Generated Content) if properly notified that such Content infringes on 
-another’s intellectual property rights. WGBH reserves the right to remove 
+another's intellectual property rights. WGBH reserves the right to remove 
 Content, including User Generated Content without prior notice.
 
 2. WGBH reserves the right to change or discontinue temporarily or 
@@ -244,14 +244,14 @@ All trademarks, service marks, and trade names are proprietary to WGBH, unless
 otherwise noted, in which case they are the trademarks, service marks, and/or 
 trade names of the respective owner as indicated by the mark, as the case may 
 be. All rights are reserved by the respective owners. You may not use any 
-WGBH-provided service marks, logos or graphics, without WGBH’s prior written 
+WGBH-provided service marks, logos or graphics, without WGBH's prior written 
 consent, except that you shall have the right, and obligation, to use any WGBH 
 or other content provider service mark or logo included in, or required to be 
 used in connection with, Content or other functionalities of the Site, subject 
 to the requirements set forth in these Terms for the use of the Content or 
 other functionalities of the Site. 
 
-## H. Users’ Obligation to Abide By Applicable Law
+## H. Users' Obligation to Abide By Applicable Law
 
 In connection with the use of the Site, you shall not engage in conduct or 
 publish information which would infringe upon or injure the personal or 
@@ -273,7 +273,7 @@ penalties.
 
 <p>1. If you are a copyright owner or an agent of a copyright owner and 
 believe that any content on the Site infringes upon your copyrights, you may 
-submit a notification to WGBH’s Designated Agent pursuant to the Digital 
+submit a notification to WGBH's Designated Agent pursuant to the Digital 
 Millennium Copyright Act (“DMCA”) section 17 USC 512 (c) (3). All notifications 
 of claimed copyright infringement should be forwarded to our Designated Agent: 
 Eric Brass, One Guest Street, Boston, MA 02135, fax: 617–300-1014, email: 
@@ -312,7 +312,7 @@ your notice may not be valid pursuant to the DMCA.
 <p>2. Counter-Notice. If any of your User Generated Content has been removed 
 or disabled because of a matter of possible copyright infringement, and you 
 believe that your Content is not infringing or that you have the authorization 
-from the copyright owner or the copyright owner’s agent, you may send a 
+from the copyright owner or the copyright owner's agent, you may send a 
 counter-notice containing the following information to the Designated Agent:</p>
 
 a. A physical or electronic signature of the subscriber. 
@@ -361,7 +361,7 @@ prescreen or control any User Generated Content that is or becomes available on
 the Site. WGBH reserves the right to review any User Generated Content that is 
 or becomes available on the Site. WGBH also reserves the right to refuse to 
 post, to redact, edit or to move or remove any User Generated Content that is, 
-in WGBH’s sole discretion, unacceptable, undesirable, or in violation of these 
+in WGBH's sole discretion, unacceptable, undesirable, or in violation of these 
 Terms. However, WGBH has no obligation to exercise such reservations of rights 
 by WGBH and is not responsible for any failure or delay in removing such 
 material. 
@@ -394,7 +394,7 @@ risk. You agree that WGBH is not liable for content that is provided by others.
 We take no responsibility for your exposure to content on the Site whether it 
 violates our content policies or not. You understand that the information and 
 opinions in content uploaded by third parties represent solely the thoughts of 
-the author and is neither endorsed by nor does it necessarily reflect WGBH’s 
+the author and is neither endorsed by nor does it necessarily reflect WGBH's 
 beliefs or editorial positions. You hereby release and waive any and all 
 claims, causes of action and/or liability against WGBH arising from or in 
 connection with your use of the Site, the Content and/or any other material on 
@@ -413,7 +413,7 @@ should refer back to this page for future updates.
 
 ## Q. Privacy Policy
 
-The Site’s [Privacy Policy](/legal/privacy) provides additional terms and conditions that apply 
+The Site's [Privacy Policy](/legal/privacy) provides additional terms and conditions that apply 
 to your use of this Site. If you do not agree to the conditions therein, please 
 do not use the Site. 
 

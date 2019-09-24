@@ -34,7 +34,7 @@ implementation.”[<sup>3</sup>](/about-the-american-archive/history/page3#3)  T
 report held out hope that with the recent passage of the American Television
 and Radio Archives (ATRA) legislation as part of the Copyright Act of 1976, the
 Library of Congress would develop a comprehensive plan “to preserve the
-nation’s radio and television history, both commercial and
+nation's radio and television history, both commercial and
 non-commercial.”[<sup>4</sup>](/about-the-american-archive/history/page3#4)  ATRA
 called on the Library to establish such an archive in order “to preserve a
 permanent record of the television and radio programs which are the heritage of
@@ -42,7 +42,7 @@ the people of the United States and to provide access to such programs to
 historians and scholars without encouraging or causing copyright
 infringement.”[<sup>5</sup>](/about-the-american-archive/history/page3#5)
 
-After ATRA’s passage, PBS donated preprint elements for some 10,000 programs to
+After ATRA's passage, PBS donated preprint elements for some 10,000 programs to
 the Library.[<sup>6</sup>](/about-the-american-archive/history/page3#6)  PBS also
 established its own Public Television Library and Broadcast Archive in 1979,
 but the archive ceased operations in 1983 in response to a lowered budget
@@ -73,11 +73,11 @@ the textual records of CPB, PBS, and NPR. Beginning in 1993, NPBA began to
 acquire moving image and audio materials as well as paper documents from
 selected institutions, including WETA, PBS, Maryland Public Television, and the
 Agency for Instructional
-Technology.[<sup>11</sup>](/about-the-american-archive/history/page3#11)  NPBA’s
-curator, however, qualified the scope of the organization’s archival efforts
+Technology.[<sup>11</sup>](/about-the-american-archive/history/page3#11)  NPBA's
+curator, however, qualified the scope of the organization's archival efforts
 that its name might seem to imply, stating, “While it is impossible to serve as
 a national central repository for all public television and radio stations, it
-is within NPBA’s mission to advise and assist stations in establishing archives
+is within NPBA's mission to advise and assist stations in establishing archives
 or work out archival service agreements between stations and local universities
 or historical
 societies.”[<sup>12</sup>](/about-the-american-archive/history/page3#12)
@@ -104,7 +104,7 @@ cable television program outlets has shifted the paradigm to
 noncommercial/public television, it is still not easy to overstate the immense
 cultural value of this unique audiovisual legacy, whose loss would symbolize
 one of the great conflagrations of our age, tantamount to the burning of
-Alexandria’s library in the age of antiquity.
+Alexandria's library in the age of antiquity.
 
 In contrast to this elevated prose, the study revealed that practically,
 “neither PBS nor the Library is in a position to accept or prepare all the
@@ -130,12 +130,12 @@ In addition to surveying nationally produced and distributed public
 broadcasting preservation efforts, the study addressed the state of local
 programming preservation practices as well. “There are many affiliate
 productions that were never broadcast on PBS,” the study stated, recommending
-that the system’s 345 affiliates should “identify their own indigenous programs
+that the system's 345 affiliates should “identify their own indigenous programs
 and make them a priority for preservation.” The NPBA curator noted that “a lot
 of moving image material out there is collected in historical societies and
 stations ... under environment conditions that are less than
 optimal.”[<sup>17</sup>](/about-the-american-archive/history/page3#17)  Even WGBH,
-public broadcasting’s most professional station archive, lacked proper
+public broadcasting's most professional station archive, lacked proper
 facilities to store color film – which made up 85% of its film collection – for
 the long term.[<sup>18</sup>](/about-the-american-archive/history/page3#18)
 

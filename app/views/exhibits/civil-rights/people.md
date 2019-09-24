@@ -15,7 +15,7 @@ Movement activists include:
 
 -	[On Freedom Road with Reverend Ralph Abernathy](/catalog/cpb-aacip_28-cz3222rk4w)
 -	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-r785p02p) and [(2 of 2)](/catalog/cpb-aacip_500-m9023j32)
--	[Birmingham: Testament of Nonviolence, Part 3; Mother’s Day, May 12 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m) and [(2 of 2)](/catalog/cpb-aacip_500-cj87n27n)
+-	[Birmingham: Testament of Nonviolence, Part 3; Mother's Day, May 12 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m) and [(2 of 2)](/catalog/cpb-aacip_500-cj87n27n)
 -	[Birmingham: Testament of Nonviolence, Part 4; Back to School in Birmingham (1 of 2)](/catalog/cpb-aacip_500-jq0svz1h) and [(2 of 2)](/catalog/cpb-aacip_500-z60c1503)
 
 ### Ella Baker
@@ -69,7 +69,7 @@ Movement activists include:
 
 ### Dorothy Height
 
--	[Birmingham: Testament of Nonviolence, Part 3; Mother’s Day, May 12 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m) and [(2 of 2)](/catalog/cpb-aacip_500-cj87n27n)
+-	[Birmingham: Testament of Nonviolence, Part 3; Mother's Day, May 12 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m) and [(2 of 2)](/catalog/cpb-aacip_500-cj87n27n)
 
 ### Myles Horton
 
@@ -82,7 +82,7 @@ Movement activists include:
 ### Martin Luther King, Jr.
 
 -	[A Happy Day in Birmingham, May 10, 1963 (1 of 2)](/catalog/cpb-aacip_500-r785p02p) and [(2 of 2)](/catalog/cpb-aacip_500-m9023j32)
--	[Birmingham: Testament of Nonviolence, Part 3; Mother’s Day, May 12 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m) and [(2 of 2)](/catalog/cpb-aacip_500-cj87n27n)
+-	[Birmingham: Testament of Nonviolence, Part 3; Mother's Day, May 12 (1 of 2)](/catalog/cpb-aacip_500-ff3m1j0m) and [(2 of 2)](/catalog/cpb-aacip_500-cj87n27n)
 -	[Birmingham: Testament of Nonviolence, Part 4; Back to School in Birmingham (1 of 2)](/catalog/cpb-aacip_500-jq0svz1h) and [(2 of 2)](/catalog/cpb-aacip_500-z60c1503)
 
 ### John Lowery
@@ -170,7 +170,7 @@ Movement activists include:
 
 - <a class="type">image</a>
   <img alt="Black and white photograph" src="https://s3.amazonaws.com/americanarchive.org/exhibits/CivilRights_People.jpg">
-  <a class="caption-text">Thomas J. O’Halloran, photographer. Alabama State College students speak with a reporter the day of a demonstration against segregation following the arrest of nine student sit-in leaders, Montgomery, Alabama, March 10, 1960.</a>
+  <a class="caption-text">Thomas J. O'Halloran, photographer. Alabama State College students speak with a reporter the day of a demonstration against segregation following the arrest of nine student sit-in leaders, Montgomery, Alabama, March 10, 1960.</a>
   <a class="credit-link" href="https://www.loc.gov/rr/print/">Courtesy of U.S. News & World Report Magazine Photograph Collection, Prints and Photographs Division, Library of Congress.</a>
 
 ## Records

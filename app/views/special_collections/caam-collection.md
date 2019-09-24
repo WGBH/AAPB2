@@ -16,7 +16,7 @@ to the broadest audience possible. CAAM funds, produces, distributes and
 exhibits works in film, television and digital media. For 37 years, CAAM has exposed
 audiences to new voices and communities, advancing our collective understanding of
 the American experience through programs specifically designed to engage the Asian
-American community and the public at large. This collection was digitized as part of the American Archive of Public Broadcasting’s Public Broadcasting Preservation Fellowship by Fellow Tanya Yule, with a partnership between the Center for Asian American Media, The Bay Area Video Coalition and San José State University.
+American community and the public at large. This collection was digitized as part of the American Archive of Public Broadcasting's Public Broadcasting Preservation Fellowship by Fellow Tanya Yule, with a partnership between the Center for Asian American Media, The Bay Area Video Coalition and San José State University.
 
 ## Featured
 
@@ -40,7 +40,7 @@ American community and the public at large. This collection was digitized as par
 ## Help
 
 - Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword, or title, or browse all episodes by clicking “Explore the Collection” below the search box.
-- The Center for Asian American Media’s collection has 23 digitized titles, 22 of which are accessible online at the AAPB website. Materials not visible online are available by visiting in person to the Library of Congress, WGBH, or CAAM.
+- The Center for Asian American Media's collection has 23 digitized titles, 22 of which are accessible online at the AAPB website. Materials not visible online are available by visiting in person to the Library of Congress, WGBH, or CAAM.
 
 ## Terms
 

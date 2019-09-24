@@ -42,7 +42,7 @@ Recorded Sound collections are available to the public for listening in the Reco
 #### Listening Appointments:
 Recordings that fall under the rubric of the American Archive of Public Broadcasting Collection will be available for listening on demand, on-site at the Library.
 
-Appointments are required for listening to most of the other material in the Library’s collections. Recordings do not circulate. Listeners can telephone the Research Center at (202) 707-7833, fax requests to (202) 707-8464, or submit an email request to rsrc@loc.gov.
+Appointments are required for listening to most of the other material in the Library's collections. Recordings do not circulate. Listeners can telephone the Research Center at (202) 707-7833, fax requests to (202) 707-8464, or submit an email request to rsrc@loc.gov.
 
 The Library holds public media material other than the American Archive of Public Broadcasting Collection; these materials, if not already digitized, will take at least two weeks for engineers to digitize for listening appointments. Special arrangements are required for requests of more than five items needing digitization at one time. Certain audio formats will require more time to digitize and will necessitate a longer wait. Please contact the Research Center as soon as possible with large requests or to identify previously digitized recordings.
 

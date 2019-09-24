@@ -174,10 +174,10 @@ organizations, producers and leaders) and beyond <br>
 <br>Senior Digital Librarian, PBS
 
 **Julie Rogers** 
-<br>Public Historian, NPR’s Research, Archives, and Data Strategy Team
+<br>Public Historian, NPR's Research, Archives, and Data Strategy Team
 
 **Laura Sampson**
-<br>Board Trustee for National Friends of Public Broadcasting (NFPB); Founder and Board Member of Station’s Archived Memories (SAM), Rocky Mountain Public Media
+<br>Board Trustee for National Friends of Public Broadcasting (NFPB); Founder and Board Member of Station's Archived Memories (SAM), Rocky Mountain Public Media
 
 **Winter Shanck**
 <br>Archivist, Thirteen/WNET 

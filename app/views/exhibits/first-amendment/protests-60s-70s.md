@@ -55,11 +55,11 @@ The Red Power Movement and the Chicano Movement also fought against racism and s
 - [New Mexico Navajo Protest, 1974](https://exhibits.stanford.edu/fitch/browse/new-mexico-navajo-protest-1974): This collection from Stanford University provides images from 1974 Navajo protests. These protests were sparked after white teenagers, who attacked and killed three Navajo individuals, only had to attend reform school for their crimes.
 
 
-### The New Left: Student Protests, Vietnam, and Women’s Liberation <a id="chapter-2"></a>
+### The New Left: Student Protests, Vietnam, and Women's Liberation <a id="chapter-2"></a>
 
 The growth of the New Left and student radicalism began in the early 1960s and reached its height during 1968. This new political movement sprouted protests on college campuses from the [East Coast](/catalog/cpb-aacip_305-89r22j6z) to the [West Coast](/catalog/cpb-aacip_28-kw57d2qp5g) on issues including the Vietnam War, free speech, the environment, and racism. Including student groups like Students for a Democratic Society and the Free Speech Movement in Berkeley, the New Left rallied for the “common struggle with the liberation movements of the world.”[<sup>5</sup>](/exhibits/first-amendment/notes#5)
 
-The women’s liberation movement also gained renewed energy and force in the late 1960s and early 1970s as women fought for equal pay, equal treatment, and new opportunities. A vivid piece of this history is found in this recording of a [1973 celebration](/catalog/cpb-aacip_27-j678s4k46n) of International Women’s Day, in speeches by [Equal Rights Amendment supporters](/catalog/cpb-aacip_43-4m91834b61) and in this recording of 1970s rally by women fighting to gain [child care support](/catalog/cpb-aacip_43-hx15m62n07).
+The women's liberation movement also gained renewed energy and force in the late 1960s and early 1970s as women fought for equal pay, equal treatment, and new opportunities. A vivid piece of this history is found in this recording of a [1973 celebration](/catalog/cpb-aacip_27-j678s4k46n) of International Women's Day, in speeches by [Equal Rights Amendment supporters](/catalog/cpb-aacip_43-4m91834b61) and in this recording of 1970s rally by women fighting to gain [child care support](/catalog/cpb-aacip_43-hx15m62n07).
 
 During the late 1960s and the 1970s, gay and lesbian activism also flourished in the form of parades and demonstrations as activists and supporters protested the stigmatization of the gay community, demanded equal rights, and celebrated their identities. 1969 would prove especially momentous, as the Stonewall uprising in New York City propelled activists around the United States into action and prompted annual pride parades. Be sure to check out this resource, from the New York Public Library, to learn more: [1969: The Year of Gay Liberation](/catalog/http://web-static.nypl.org/exhibitions/1969/year.html).
 
@@ -67,7 +67,7 @@ Protests against the war in Vietnam loomed large in New Left activities, drawing
 
 ![Image of 1967 Peace Protest in New York](https://s3.amazonaws.com/americanarchive.org/exhibits/First_Amendment_Section2_Option2.png "Image of 1967 Peace Protest in New York")
 
-In fall of 1967, over 1,000 student protesters returned their draft cards at the steps of the Justice Department. It was the beginning of over 25,000 draft cards burnt, returned, or destroyed in protest during the course of the war. [Recounting in 1982](/catalog/cpb-aacip_15-9k45q4rs29) his role in this act of civil disobedience, Rev. William Sloane Coffin of Yale remarked, “My own feeling was that this war was so wrong that having done all the other things I just felt I would have to commit civil disobedience. Now, it’s not an easy thing to do if you’re married and if you have small children…[But] I felt sort of a wider parish of students were turning in their draft cards. And what was their chaplain going to do? And the obvious thing was that the pastor should stand by his parishioners.”
+In fall of 1967, over 1,000 student protesters returned their draft cards at the steps of the Justice Department. It was the beginning of over 25,000 draft cards burnt, returned, or destroyed in protest during the course of the war. [Recounting in 1982](/catalog/cpb-aacip_15-9k45q4rs29) his role in this act of civil disobedience, Rev. William Sloane Coffin of Yale remarked, “My own feeling was that this war was so wrong that having done all the other things I just felt I would have to commit civil disobedience. Now, it's not an easy thing to do if you're married and if you have small children…[But] I felt sort of a wider parish of students were turning in their draft cards. And what was their chaplain going to do? And the obvious thing was that the pastor should stand by his parishioners.”
 
 > **“I just felt I would have to commit civil disobedience.” [<sup>6</sup>](/exhibits/first-amendment/notes#6)**
 
@@ -96,9 +96,9 @@ From 1968 to 1970, protests continued in force as events like the Tet Offensive,
 - 1977—[Kent State University Rally in Kent, Ohio (During Tent City, 1977)](/catalog/cpb-aacip_27-bc3st7f618)
 - 1982—[Interview with William Sloane Coffin](/catalog/cpb-aacip_15-9k45q4rs29)
 
-##### Women’s Movement
+##### Women's Movement
 - 1970s—[University of Minnesota Child Care Rally](/catalog/cpb-aacip_43-hx15m62n07)
-- 1973—[International Woman’s Day](/catalog/cpb-aacip_27-j678s4k46n)
+- 1973—[International Woman's Day](/catalog/cpb-aacip_27-j678s4k46n)
 - 1975—[Supporters of ERA Outline the Benefits of the Amendment](/catalog/cpb-aacip_15-mg7fq9qc0p)
 
 ##### Disability Rights
@@ -113,7 +113,7 @@ From 1968 to 1970, protests continued in force as events like the Tet Offensive,
 
 - [Raised My Hand To Volunteer](/catalog/https://exhibits.lib.unc.edu/exhibits/show/protest): Want to learn more about student protests? Check out this exhibit by the University of North Carolina at Chapel Hill. It provides an overview of 1960s student protests at UNC through “digitized documents, images, and other archival materials.”
 
-- [Catching the Wave: Photographs of the Women’s Movement](https://www.radcliffe.harvard.edu/schlesinger-library/exhibition/catching-the-wave): This resource from Harvard’s Schlesinger Library provides a rich sample of photographs from the Women’s Movement from feminist photographers Bettye Lane and Freda Leinwand.
+- [Catching the Wave: Photographs of the Women's Movement](https://www.radcliffe.harvard.edu/schlesinger-library/exhibition/catching-the-wave): This resource from Harvard's Schlesinger Library provides a rich sample of photographs from the Women's Movement from feminist photographers Bettye Lane and Freda Leinwand.
 
 - [Chicago: Law and Disorder](https://www.google.com/culturalinstitute/beta/exhibit/wRHhmq8J): This exhibit from the Chicago History Museum covers the 1968 Democratic Convention through photographs, documents, and ephemera.
 

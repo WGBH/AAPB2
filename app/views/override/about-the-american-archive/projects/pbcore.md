@@ -8,11 +8,11 @@ public media and audiovisual collections in the United States.
 WGBH will use the grant funds to develop tools, methodologies and training workshops to make PBCore more 
 accessible to archivists and public media organizations over the course of this 27-month project. 
 
-WGBH’s Media Library and Archives (MLA) has been responsible for the ongoing development of PBCore since 2013, when 
+WGBH's Media Library and Archives (MLA) has been responsible for the ongoing development of PBCore since 2013, when 
 the Corporation for Public Broadcasting (CPB) selected WGBH and the Library of Congress as the permanent stewards 
 of the American Archive of Public Broadcasting (AAPB). 
 
-The grant award will fund a number of initiatives designed to enhance PBCore’s accessibility among archivists, 
+The grant award will fund a number of initiatives designed to enhance PBCore's accessibility among archivists, 
 public media organizations, and archival educators. Deliverables for the project will include:
 
 - a new widely available open-source PBCore cataloging tool

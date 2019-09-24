@@ -1287,7 +1287,7 @@ The Queen's Christmas Message *see* **Her Majesty, Queen Elizabeth Christmas Mes
 **Son of Liberty**: 30 minute program, produced by Associated Rediffusion.<br />
 **A Song Recital**: 1 hour program.<br />
 **Sonny Brown and Fallen Sparrows**: 90 minute program.<br />
-**Sons and Daughters: That’s' What Life is All About**<br />
+**Sons and Daughters: That's' What Life is All About**<br />
 **A Sort of Paradise and Pocomania**: 1 hour program, produced by BBC and initially distributed by NET in 1966.<br />
 **The South**<br />
 **South Africa and the UN**: 30 minute program, initially distributed by NET in 1963.  *Aired as an episode of [At Issue](/about-the-american-archive/projects/net-catalog/series/at-issue).*<br/>

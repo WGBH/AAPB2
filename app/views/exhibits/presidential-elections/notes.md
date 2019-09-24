@@ -18,7 +18,7 @@ Rufus King in the Senate of the United States. [http://memory.loc.gov/cgi-bin/qu
 
 <a name="6"></a><sup>6</sup>[http://www.loc.gov/teachers/classroommaterials/presentationsandactivities/presentations/elections/partysys.html](http://www.loc.gov/teachers/classroommaterials/presentationsandactivities/presentations/elections/partysys.html)
 
-<a name="7"></a><sup>7</sup>“Fact Sheet, Women’s Political Participation,” *International Women’s Democracy Center*, 2008.
+<a name="7"></a><sup>7</sup>“Fact Sheet, Women's Political Participation,” *International Women's Democracy Center*, 2008.
 [http://www.iwdc.org/resources/fact_sheet.htm](http://www.iwdc.org/resources/fact_sheet.htm)
 
 <a name="8"></a><sup>8</sup>“Women in National Parliaments,” Inter-parliamentary Union, 2015 Novemeber 1,

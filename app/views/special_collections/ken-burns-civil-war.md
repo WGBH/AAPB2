@@ -1,4 +1,4 @@
-# Ken Burns’ The Civil War Interviews
+# Ken Burns' The Civil War Interviews
 
 ## Thumbnail
 
@@ -6,11 +6,11 @@
 
 ## Summary
 
-Ken Burns’ <em>The Civil War</em> Interviews Collection consists of eight full interviews conducted by Burns with historians, writers, and commentators concerning the history and politics of the American Civil War. The interviews were recorded on film by Ken Burns and associates between 1986 and 1988 as part of Ken Burns’ award winning documentary, <em>The Civil War</em>, which originally aired on PBS stations from September 23rd to September 27th, 1990. The recordings include cuts, incidental conversation, production notes, and segments with sound but not film, and vary in length between 30 minutes and 1.5 hours. The questions asked of interviewees are usually audible. The interviews were digitized as part of the 25th anniversary restoration of the original film and provided to the AAPB in fall 2016.
+Ken Burns' <em>The Civil War</em> Interviews Collection consists of eight full interviews conducted by Burns with historians, writers, and commentators concerning the history and politics of the American Civil War. The interviews were recorded on film by Ken Burns and associates between 1986 and 1988 as part of Ken Burns' award winning documentary, <em>The Civil War</em>, which originally aired on PBS stations from September 23rd to September 27th, 1990. The recordings include cuts, incidental conversation, production notes, and segments with sound but not film, and vary in length between 30 minutes and 1.5 hours. The questions asked of interviewees are usually audible. The interviews were digitized as part of the 25th anniversary restoration of the original film and provided to the AAPB in fall 2016.
 
 ## Background
 
-Ken Burns has been making films for almost forty years. Since the Academy Award nominated Brooklyn Bridge in 1981, Burns has gone on to direct and produce some of the most acclaimed historical documentaries ever made. Ken’s films have won fifteen Emmy Awards and two Oscar nominations, and in 2008, Ken was honored by the Academy of Television Arts & Sciences with a Lifetime Achievement Award.
+Ken Burns has been making films for almost forty years. Since the Academy Award nominated Brooklyn Bridge in 1981, Burns has gone on to direct and produce some of the most acclaimed historical documentaries ever made. Ken's films have won fifteen Emmy Awards and two Oscar nominations, and in 2008, Ken was honored by the Academy of Television Arts & Sciences with a Lifetime Achievement Award.
 
 ## Featured
 
@@ -25,9 +25,9 @@ Ken Burns has been making films for almost forty years. Since the Academy Award 
 
 - [<em>The Civil War</em> on PBS.org](http://www.pbs.org/kenburns/civil-war/)
 - [Restoring <em>The Civil War</em> film](http://www.pbs.org/kenburns/civil-war/restoring-film/)
-- [<em>The Civil War</em> on Ken Burns’ website](http://www.wnyc.org/series/archives-and-preservation/)
+- [<em>The Civil War</em> on Ken Burns' website](http://www.wnyc.org/series/archives-and-preservation/)
 - [Civil War Resources at the Library of Congress](https://www.loc.gov/rr/main/uscw_rec_links/civilwarlinks.html)
-- [Article on the 25th Anniversary of Ken Burns’ The Civil War](https://www.neh.gov/humanities/2015/septemberoctober/feature/the-civil-war-ken-burns-reinvented-the-television-history-d)
+- [Article on the 25th Anniversary of Ken Burns' The Civil War](https://www.neh.gov/humanities/2015/septemberoctober/feature/the-civil-war-ken-burns-reinvented-the-television-history-d)
 
 ## Funders
 

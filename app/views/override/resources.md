@@ -7,7 +7,7 @@ This resource list is evolving, so please check back often.
 
 ### 1. Preservation Consultations
 
-Do you have specific questions on how to proceed with your preservation efforts? AAPB’s Project Manager is just an email or phone call away! Contact Casey Davis Kaufman at [Casey_Davis-Kaufman@wgbh.org](mailto:casey_davis-kaufman@wgbh.org).
+Do you have specific questions on how to proceed with your preservation efforts? AAPB's Project Manager is just an email or phone call away! Contact Casey Davis Kaufman at [Casey_Davis-Kaufman@wgbh.org](mailto:casey_davis-kaufman@wgbh.org).
 
 ### 2. Archival Management System (AMS)
 
@@ -15,11 +15,11 @@ Participating organizations have exclusive access to the Archival Management Sys
 
 ### 3. Customize Your Organization Page on the AAPB Website
 
-Each organization has a landing page on AAPB’s website, and we encourage adding a logo and org summary to provide more background on your programs! Find your page: http://americanarchive.org/participating-orgs Please forward any updates to Ryn.
+Each organization has a landing page on AAPB's website, and we encourage adding a logo and org summary to provide more background on your programs! Find your page: http://americanarchive.org/participating-orgs Please forward any updates to Ryn.
 
 ### 4. Grant Writing Assistance
 
-Are you interested in applying for a digitization grant? Let’s collaborate! We can point you to a few grant programs and provide you with our digitization grant writing toolkit of materials that you can incorporate into your proposal. Contact Casey, AAPB’s Project Manager, for details.
+Are you interested in applying for a digitization grant? Let's collaborate! We can point you to a few grant programs and provide you with our digitization grant writing toolkit of materials that you can incorporate into your proposal. Contact Casey, AAPB's Project Manager, for details.
 
 ### 5. AAPB's Preservation Wiki
 
@@ -35,7 +35,7 @@ With funding from the Institute of Museum and Library Services (IMLS), the AAPB 
 
 ### 8. Free Digitization Opportunity through 2019!
 
-The Transcribe to Digitize Challenge is a year-long opportunity hosted by the digitization service provider George Blood, LP. The challenge is simple: if your organization can correct between 20-100 of the computer-generated transcripts for your content via AAPB’s crowdsourcing platform [FIX IT+](http://fixitplus.americanarchive.org), George Blood will digitize an equivalent number of your tapes for free. Contact Ryn for details.
+The Transcribe to Digitize Challenge is a year-long opportunity hosted by the digitization service provider George Blood, LP. The challenge is simple: if your organization can correct between 20-100 of the computer-generated transcripts for your content via AAPB's crowdsourcing platform [FIX IT+](http://fixitplus.americanarchive.org), George Blood will digitize an equivalent number of your tapes for free. Contact Ryn for details.
 
 ### 9. Referring Licensing Inquiries
 

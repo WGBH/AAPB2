@@ -9,7 +9,7 @@
 
 ## Background
 
-<em>The Evolution of Jazz</em> series was produced at WGBH and presented under the auspices of Northeastern University by the Lowell Institute Cooperative Broadcasting Council (LICBC). The materials were contributed to the American Archive of Public Broadcasting (AAPB) by the University of Maryland’s National Public Broadcasting Archives in 2013 as part of the [National Association of Educational Broadcasters (NAEB) collection](http://americanarchive.org/special_collections/naeb).
+<em>The Evolution of Jazz</em> series was produced at WGBH and presented under the auspices of Northeastern University by the Lowell Institute Cooperative Broadcasting Council (LICBC). The materials were contributed to the American Archive of Public Broadcasting (AAPB) by the University of Maryland's National Public Broadcasting Archives in 2013 as part of the [National Association of Educational Broadcasters (NAEB) collection](http://americanarchive.org/special_collections/naeb).
 
 ## Featured
 

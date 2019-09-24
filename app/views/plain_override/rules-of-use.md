@@ -3,7 +3,7 @@
 The American Archive of Public Broadcasting (the “AAPB”) is a project managed
 collaboratively by the WGBH Educational Foundation and the Library of Congress
 (“we” or “us”). The AAPB seeks to preserve and make accessible significant
-historical content created by public media, and the AAPB’s Online Reading Room
+historical content created by public media, and the AAPB's Online Reading Room
 (the “ORR”) plays a central role in our mission. In the ORR, you can view and
 listen to thousands of hours of digitized archival materials free of charge. We
 make the ORR and all content therein available in accordance with the copyright
@@ -49,10 +49,10 @@ advise the use of unique AAPB web addresses.
 **2.e.** In using or accessing the ORR, you agree not to (i) act in any way that
 might give rise to civil or criminal liability, (ii) collect or store personal
 data about anyone, (iii) infringe any copyright, trademark, patent, or other
-proprietary rights of any person, (iv) violate anyone’s rights of privacy,
+proprietary rights of any person, (iv) violate anyone's rights of privacy,
 publicity, or any other personal right, (v) interfere with the activities of
 any other user or of the AAPB, its servers, or resources, (vi) use or attempt
-to use any other user’s password to access the ORR, and (vii) harass or
+to use any other user's password to access the ORR, and (vii) harass or
 threaten anyone.
 
 ### 3.  Rights
@@ -62,7 +62,7 @@ and regulations, including intellectual property laws. Privacy, publicity, and
 other personal rights may also apply.
 
 **3.b.** The nature of ORR content often makes it difficult to determine the
-content’s copyright status. Though the AAPB tries when possible to provide
+content's copyright status. Though the AAPB tries when possible to provide
 information about copyright owners and related matters in catalog records,
 finding aids, and other texts that accompany collections or individual items,
 which may assist you in making necessary legal determinations, we make no
@@ -126,7 +126,7 @@ security of your password, or its unauthorized use, promptly to
 **5.a.** You agree to indemnify us and our subsidiaries, affiliates, agents,
 officers, directors, trustees, and employees (collectively the “Indemnified
 Parties”) from and against any and all liability, loss, claims, damages, costs,
-penalties, and/or actions (including attorneys’ fees) if your use of the ORR
+penalties, and/or actions (including attorneys' fees) if your use of the ORR
 creates any liability for the Indemnified Parties.
 
 **5.b.** You are solely liable for any use you make of the ORR, and you agree to

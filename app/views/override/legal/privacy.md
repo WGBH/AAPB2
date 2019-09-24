@@ -1,13 +1,13 @@
 # AAPB Privacy Policy
 
  
-Thank you for visiting americanarchive.org (the “Site”). We know you don’t want 
+Thank you for visiting americanarchive.org (the “Site”). We know you don't want 
 the information you provide us shared indiscriminately. Here we explain what 
 information the WGBH Educational Foundation (“WGBH”) (and our third-party 
 vendors and/or service providers (collectively “we”) acting on our behalf to 
 help deliver the services and operate and analyze use of the Site), collects, 
 what we do with the information, and what controls you have over the 
-information collected. We’re committed to ensuring the privacy of your 
+information collected. We're committed to ensuring the privacy of your 
 personally identifiable information, and to protecting your ability to make 
 financial transactions and transmit your personal data with full confidence.
 
@@ -23,7 +23,7 @@ about their policies.
 1. <a href="#collect">WHAT INFORMATION DO WE COLLECT ABOUT YOU?</a>
 2. <a href="#gathered">HOW DO WE USE INFORMATION GATHERED ON THE SITE?</a>
 3. <a href="#security">SECURITY OF INFORMATION</a>
-4. <a href="#children">CHILDREN’S GUIDELINES</a>
+4. <a href="#children">CHILDREN'S GUIDELINES</a>
 5. <a href="#corrections">CORRECTIONS TO PERSONAL DATA; OPTING OUT</a>
 6. <a href="#acceptance">ACCEPTANCE OF THIS PRIVACY POLICY FOR americanarchive.org</a>
 7. <a href="#changes">CHANGES TO THIS PRIVACY POLICY</a><br/>
@@ -79,10 +79,10 @@ choose to make a donation, we will collect and store your telephone number,
 email address, billing address, and credit card information.
 
  
-#### Your submission of others’ Personally Identifiable Information: 
+#### Your submission of others' Personally Identifiable Information: 
 
 On certain pages within the Site you can submit information about other people. 
-For example, you may submit a person’s name and email address to recommend a 
+For example, you may submit a person's name and email address to recommend a 
 collection. This information will only be used for your intended purpose.
 
  
@@ -147,8 +147,8 @@ properly if you do so.
 Neither WGBH, nor our third-party vendors and/or service providers acting on 
 our behalf to help deliver the services and operate the Site, will willfully 
 disclose any personally identifiable information about our online users to any 
-non-affiliated third party without first receiving the user’s permission, 
-unless required by law. WGBH’s affiliates include the Library of Congress, CPB, 
+non-affiliated third party without first receiving the user's permission, 
+unless required by law. WGBH's affiliates include the Library of Congress, CPB, 
 NPR, PBS, and other public broadcasting stations.
  
 In terms of our own use of information, we may use your personally identifiable 
@@ -189,7 +189,7 @@ party, without your permission. However, we or our service providers may
 release personally identifiable information if we believe in good faith that 
 the law or legal process requires it, we have received a valid administrative 
 request from a law enforcement agency, or such release is necessary to protect 
-anyone’s rights, property or safety.
+anyone's rights, property or safety.
 
 On certain pages, we may now or in the future, offer visitors the opportunity 
 to provide comments, messages or other user-generated text, content or 
@@ -217,7 +217,7 @@ your participation in those activities.
 We may offer an email listserv via third party services. We will always provide 
 a clear and convenient method of unsubscribing to our mailings. If you no 
 longer wish to receive a specific newsletter, follow the “unsubscribe” 
-instructions located in each newsletter or email, or by going to the Site’s 
+instructions located in each newsletter or email, or by going to the Site's 
 Contact Us page and send us a message. We will update our records as soon as 
 possible.
 
@@ -235,13 +235,13 @@ managerial procedures to safeguard and secure the information we collect
 online. Credit card information provided on the Site is protected against 
 unauthorized use by Secure Sockets Layer (SSL) security features. The SSL 
 protocol is the industry standard method for creating an encrypted, secure 
-connection between your web browser and a web server, such as the Site’s 
+connection between your web browser and a web server, such as the Site's 
 server. You should, however, keep in mind that no Internet or email 
 transmission is ever fully secure or error free. Because most email is not 
 encrypted, you should take special care in deciding what information you send 
 to us via email.
  
-## <a name="children">4. CHILDREN’S GUIDELINES</a>
+## <a name="children">4. CHILDREN'S GUIDELINES</a>
 
 Our Site is a general audience site and does not knowingly collect or store 
 personally identifiable information about children under the age of 13.
@@ -288,7 +288,7 @@ identified themselves as younger than 18.
  
 ## <a name="discussion">DISCUSSION AND COMMENT POLICY</a>
 
-This is the discussion policy for users of americanarchive.org’s 
+This is the discussion policy for users of americanarchive.org's 
 blog/commenting/email tools. All participants offering comments on 
 americanarchive.org are required to follow these guidelines. Those violating 
 the following guidelines may have their comments removed or blocked.
@@ -297,7 +297,7 @@ Our guidelines are intended to facilitate a sense connection and sharing within
 the online community of this Site. You can contribute to and be part of our 
 community by participating on americanarchive.org with these guidelines in mind:
 
-1.     Be respectful and civil. If polite language isn’t possible, please don’t 
+1.     Be respectful and civil. If polite language isn't possible, please don't 
 post. Engage points, focus on ideas, debate, and discuss. Never resort to 
 name-calling, slander, or obscenities. Messages that include anything WGBH, in 
 its sole discretion, determines to be hate speech, a threat, harassment, or 
@@ -305,21 +305,21 @@ illegal in any way will be removed and the poster will be blocked.
 2.     Post clear, concise comments (posts longer than 200 words tend to be 
 ignored by readers anyway). Long posts may be edited by WGBH. Before 
 submitting, take a moment to re-read your post for clarity, grammar, 
-punctuation, and spelling. And please avoid typing in all caps; it’s the online 
+punctuation, and spelling. And please avoid typing in all caps; it's the online 
 version of shouting.
 3.     Stay with the topic at hand. Keeping your posts focused contributes to 
 the best possible discussion.
 4.     Write your own posts. A link or quote from another source can be a 
 meaningful addition to the discussion; copying and pasting an entire article 
 from elsewhere does not contribute in a meaningful way (also see guideline 2, 
-above). In addition, it often violates the author’s copyright. Help keep the 
+above). In addition, it often violates the author's copyright. Help keep the 
 conversation lively and focused by posting only one link per comment.
 5.     Promote the discussion, rather than your own interests. the online 
-community of this Site is not an appropriate venue for posters’ advertisements, 
+community of this Site is not an appropriate venue for posters' advertisements, 
 promotions, campaigns, solicitations, or proselytizing. There can be a fine 
 line between discussion and promotion of personal interests; use your best 
-judgment and we’ll use ours.
+judgment and we'll use ours.
  
-WGBH will not publish comments that don’t meet these guidelines.
+WGBH will not publish comments that don't meet these guidelines.
 
  

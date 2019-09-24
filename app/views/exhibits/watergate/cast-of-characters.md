@@ -4,7 +4,7 @@
 
 ## Summary
 
-Part of what made the Watergate coverage so captivating was its exciting cast of characters. On July 13, 1973, Jim Lehrer said of the Committee, “Before Watergate, Baker was just Senator Dirksen’s son in law, Ervin was just one of those charming, old Southern senators who voted against civil rights legislation, and on down the line. Now they have all become very important parts of our daily lives.” (click [here](/catalog/cpb-aacip_512-jh3cz33054#at_1975.00_s) to see MacNeil and Lehrer comment on each senator) In addition to the senators, a parade of cops, crooks, and campaign men each had their day before the Committee. The following page will help viewers identify these men (and one woman) while watching the broadcasts.
+Part of what made the Watergate coverage so captivating was its exciting cast of characters. On July 13, 1973, Jim Lehrer said of the Committee, “Before Watergate, Baker was just Senator Dirksen's son in law, Ervin was just one of those charming, old Southern senators who voted against civil rights legislation, and on down the line. Now they have all become very important parts of our daily lives.” (click [here](/catalog/cpb-aacip_512-jh3cz33054#at_1975.00_s) to see MacNeil and Lehrer comment on each senator) In addition to the senators, a parade of cops, crooks, and campaign men each had their day before the Committee. The following page will help viewers identify these men (and one woman) while watching the broadcasts.
 
 ## Extended
 
@@ -522,7 +522,7 @@ Part of what made the Watergate coverage so captivating was its exciting cast of
 </tr>
 <tr>
 <td style="text-align:center">Former NYPD officer</td>
-<td style="text-align:center">James McCord’s former attorney</td>
+<td style="text-align:center">James McCord's former attorney</td>
 <td style="text-align:center">CIA director, fired February 2, 1973</td>
 </tr>
 <tr>

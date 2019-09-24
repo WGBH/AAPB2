@@ -28,11 +28,11 @@ from the original inventory record submitted to the collection.
 priority in the digitization process.
 
 To export a limited CSV, you will need to be logged into the AMS. From the 
-Records page, you should see all of your organization’s records. 
+Records page, you should see all of your organization's records. 
 
 Click on the Instantiations tabs on the top left of the Records page. Then, 
 click the Operation button, and select Limited CSV from the drop-down menu. 
-When the dialog box appears asking if you’d like to export records, click Yes. 
+When the dialog box appears asking if you'd like to export records, click Yes. 
 Your limited CSV will then be emailed, and you may open it as an Excel 
 spreadsheet or another application that supports CSV such as OpenOffice or 
 GoogleDocs.
@@ -44,11 +44,11 @@ For single records, cleaned and normalized PBCore can be obtained by adding
 http://americanarchive.org/catalog/cpb-aacip_37-95j9krh1.pbcore
 
 The original, unnormalized PBCore is available from the AMS. PBCore XML records 
-can be emailed to you as a zip file containing folders titled by each record’s 
+can be emailed to you as a zip file containing folders titled by each record's 
 AAPB GUID. 
 
 To export PBCore XML, you will need to be logged into the AMS. From the records 
-page, you should see all of your organization’s records. 
+page, you should see all of your organization's records. 
 
 Make sure that the Assets tab is highlighted in blue in the top left of the 
 Records page. Click the Operation button and select Export Results from the 
@@ -60,7 +60,7 @@ requested.
 When the email arrives, click the link to download records. Un-zip the folder 
 using software compatible with your system, such as WinZip or UnRAR. In the 
 directory named “data” there will be one sub-directory for each of your 
-organization’s assets, and each will be titled with the AAPB GUID of the asset. 
+organization's assets, and each will be titled with the AAPB GUID of the asset. 
 Within each folder, there will be a PBCore XML file. If the asset has been 
 digitized, there also will be a PREMIS XML file, which includes migration 
 metadata. 

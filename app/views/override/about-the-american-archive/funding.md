@@ -12,7 +12,7 @@ The American Archive of Public Broadcasting is generously supported by the follo
 
 ### Institute of Museum and Library Services
 
-![IMLS Logo Image](https://s3.amazonaws.com/americanarchive.org/org-logos/imls_logo.png) The Institute of Museum and Library Services is the primary source of federal support for the nation’s 123,000 libraries and 35,000 museums. Our mission is to inspire libraries and museums to advance innovation, lifelong learning, and cultural and civic engagement. Our grant making, policy development, and research help libraries and museums deliver valuable services that make it possible for communities and individuals to thrive.
+![IMLS Logo Image](https://s3.amazonaws.com/americanarchive.org/org-logos/imls_logo.png) The Institute of Museum and Library Services is the primary source of federal support for the nation's 123,000 libraries and 35,000 museums. Our mission is to inspire libraries and museums to advance innovation, lifelong learning, and cultural and civic engagement. Our grant making, policy development, and research help libraries and museums deliver valuable services that make it possible for communities and individuals to thrive.
 
 The Laura Bush 21st Century Librarian Program supports projects to recruit and educate the next generation of librarians, faculty, and library leaders; and to support early career research. It also assists in the professional development of librarians and library staff.
 

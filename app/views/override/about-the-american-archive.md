@@ -6,7 +6,7 @@ dissemination of some of the most important programs which in aggregate form
 the richest audiovisual source of cultural history in the United States. . . .
 [I]t is still not easy to overstate the immense cultural value of this unique
 audiovisual legacy, whose loss would symbolize one of the great conflagrations
-of our age, tantamount to the burning of Alexandria’s library in the age of
+of our age, tantamount to the burning of Alexandria's library in the age of
 antiquity.
 <footer>Television and Video Preservation (1997), a Library of Congress
 report</footer>
@@ -36,7 +36,7 @@ the Library and WGBH are overseeing the digitization of approximately 40,000
 hours of programs selected by more than 100 public broadcasting stations
 throughout the nation. Dating from the 1940s to the 21st century and emanating
 from all regions of the nation, these programs will be available to scholars,
-researchers, educators, students, and the general public at the Library’s
+researchers, educators, students, and the general public at the Library's
 audiovisual research centers and at WGBH.
 
 >
@@ -59,9 +59,9 @@ broadcasting stations for this project.
 I am very excited and supportive of the proposed “American Archive” project.
 Because public radio and television stations have such a rich tradition of
 documenting our national story, it is natural to want to harness the power of
-digital technology and telecommunications to preserve public broadcasting’s
+digital technology and telecommunications to preserve public broadcasting's
 audio, film, and video history, and to make it available to the American
-people.  This is a project that is consistent with public broadcasting’s core
+people.  This is a project that is consistent with public broadcasting's core
 mission.
 <footer>Ed Markey, Member of Congress (now Senator) (February 7, 2007)</footer>
 
@@ -96,7 +96,7 @@ about public broadcasting programs produced during the turbulent decade of the
 These programs are rich and promising in so many areas: Jazz history; civil
 rights history; the history of the war in Vietnam as debated and experienced by
 famous and ordinary people; the urban crisis and the development of urban
-minority political power; the programs of Lyndon Johnson’s War on Poverty and
+minority political power; the programs of Lyndon Johnson's War on Poverty and
 the hidden history of battles over social welfare and rights…. In discussions
 with Library of Congress staff about the American Archive project, I learned
 about tantalizing programming that critically evaluated the role that
@@ -136,11 +136,11 @@ Unlike history books, which are widely available in libraries and on the
 Internet, the great majority of our audio, film and video history sits in
 collections that are locked away and unavailable to the American public, and
 could eventually be lost forever. However, unique opportunities exist to use
-these archives to expand Public Television’s educational mission. Educators and
+these archives to expand Public Television's educational mission. Educators and
 students could pick and choose content from which to create unique, digital
 learning materials capable of being presented in a variety of formats.
 Historians, journalists and documentary filmmakers could take advantage of the
-archive’s thousands of hours of raw footage for research purposes or for
+archive's thousands of hours of raw footage for research purposes or for
 creating new educational works. Most importantly, digitizing these vast
 archives will allow the public to reap the benefits of its years of investment
 in public broadcasting.
@@ -159,18 +159,18 @@ maintained and developed by WGBH.
 The American Archive will ensure that the wealth of public broadcasting
 programming that Americans have paid for does not sit locked away,
 deteriorating, on aging tape and film. This rich programming represents the
-most comprehensive chronicle of our nation’s history, our people, our culture
+most comprehensive chronicle of our nation's history, our people, our culture
 and our democracy. It has enormous continuing value to current and future
 generations and must not be left to fade away.
 <footer>Jon Abbott, President and CEO of WGBH Boston</footer>
 
 
 “Acquire, preserve, and provide access to a universal collection of knowledge
-and the record of America’s creativity” is a key strategic goal of the Library
+and the record of America's creativity” is a key strategic goal of the Library
 of Congress. Adopting the American Archive project advances the mission of the
-Library of Congress, as America’s national library, to preserve our nation’s
+Library of Congress, as America's national library, to preserve our nation's
 broadcast history for future generations and further the progress of knowledge
-and creativity for the benefit of the American people. The Library’s
+and creativity for the benefit of the American people. The Library's
 experience, expertise, and national leadership in preserving and making
 publicly accessible digitally reformatted audiovisual materials will ensure
 that future operations of the American Archive are performed according to

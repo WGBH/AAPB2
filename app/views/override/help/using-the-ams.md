@@ -5,7 +5,7 @@ Staff at organizations that have contributed to the American Archive of Public B
 Open a browser window and navigate to [ams.americanarchive.org](https://ams.americanarchive.org). Enter your credentials and click the Sign In button. If you do not know your login credentials, email Casey Davis, Project Manager, at casey_davis@wgbh.org.
 
 ## The Records Page
-Once logged in, click on the Records button at the top right of the screen. This page will display all of your organization’s records. When you first load the Records page, notice that the default view is the Assets screen, highlighted in blue on the top left. You also can search instantiation records by clicking on the Instantiation tab, next to the highlighted Asset tab. Instantiation records provide you with detailed information about the physical items or digital files that correspond to the assets.
+Once logged in, click on the Records button at the top right of the screen. This page will display all of your organization's records. When you first load the Records page, notice that the default view is the Assets screen, highlighted in blue on the top left. You also can search instantiation records by clicking on the Instantiation tab, next to the highlighted Asset tab. Instantiation records provide you with detailed information about the physical items or digital files that correspond to the assets.
 
 ## Filtering and Searching Records
 If you would like to narrow your records to a specific group or to an individual record, you can do so using the filter tools in the menu on the left. Here is a list of the filters and details on how to use them:

@@ -44,7 +44,7 @@ No. Content in the AAPB may be protected by U.S. copyright law and its use may
 be subject to the permission of the copyright owner, content creators,
 performers, unions, or other third parties. Privacy and publicity rights may
 also apply. The nature of content in the AAPB often makes it difficult to
-determine the content’s copyright status. AAPB endeavors when possible to
+determine the content's copyright status. AAPB endeavors when possible to
 provide accurate factual information about copyright owners and related matters
 in catalog records, finding aids, and other texts that accompany collections or
 individual items that may assist patrons in making necessary legal

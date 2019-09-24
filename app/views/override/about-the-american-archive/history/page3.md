@@ -99,11 +99,11 @@ Digital Public Television: Final Report, June 2010” (New York: WNET.org),
 
 <a name="21"></a><sup>21</sup>Corporation for Public Broadcasting, “CPB American Archive
 Backgrounder,” February 14, 2012. See also Jeremy Egner and Steven Behrens,
-“Q&A with John Lawson: APTS Preps Proposals for ‘American Archive,’ Copyright
+“Q&A with John Lawson: APTS Preps Proposals for ‘American Archive,' Copyright
 Legislation,” Current, February 25, 2007.
 <http://www.current.org/2007/02/qa-with-john-lawson-apts-preps-proposals-for-american-archive-copyright-legislation/>.
 
-<a name="22"></a><sup>22</sup>Mark R. Smith, “APTS Helps Create ‘American Archive,’” TV
+<a name="22"></a><sup>22</sup>Mark R. Smith, “APTS Helps Create ‘American Archive,'” TV
 Technology, April 2, 2007, 40, in Rubin, “Preserving Digital Public
 Television,” 47.
 

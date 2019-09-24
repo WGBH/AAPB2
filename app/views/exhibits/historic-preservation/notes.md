@@ -7,7 +7,7 @@
 <a name="1"></a><sup>1</sup>  Norman Tyler, Ted Ligibel, and Ilene R. Tyler. *Historic Preservation: An Introduction to Its History, Principles, and Practice* (New York: W.W. Norton & Co., 2009), 123-6. Also see Max Page and Randall Mason, “Rethinking the Roots of the Historic Preservation Movement” in *Giving Preservation a History: Histories of Historic Preservation in the United States* (New York: Routledge, 2004): 6-7.
 
 
-<a name="2"></a><sup>2</sup> Patricia West, "Inventing a House Undivided: Antebellum Cultural Politics and the Enshrinement of Mount Vernon," in *Domesticating History: The Political Origins of America’s House Museums* (Washington: Smithsonian Institution Press, 1999), 1.
+<a name="2"></a><sup>2</sup> Patricia West, "Inventing a House Undivided: Antebellum Cultural Politics and the Enshrinement of Mount Vernon," in *Domesticating History: The Political Origins of America's House Museums* (Washington: Smithsonian Institution Press, 1999), 1.
 
 <a name="3"></a><sup>3</sup> See West, *Domesticating History* and Karal Ann Marling, *George Washington Slept Here: Colonial Revivals and American Culture, 1876-1986* (Cambridge: Harvard University Press, 1988).
 
@@ -40,7 +40,7 @@
 
 <a name="17"></a><sup>17</sup> Zipp, *Manhattan Projects*, 14-20.
 
-<a name="18"></a><sup>18</sup> Stephanie Meeks with Kevin C. Murphy, *The Past and Future City: How Historic Preservation is Reviving America’s Communities* (Washington: Island Press, 2016): 28.
+<a name="18"></a><sup>18</sup> Stephanie Meeks with Kevin C. Murphy, *The Past and Future City: How Historic Preservation is Reviving America's Communities* (Washington: Island Press, 2016): 28.
 
 <a name="19"></a><sup>19</sup> Tyler, Ligibel, and Tyler. *Historic Preservation*, 44-6.
 

@@ -20,7 +20,7 @@
 
 <a name="8"></a><sup>8</sup> Mark Barringer, "Antiwar Movement, U.S." in *Encyclopedia of the Vietnam War: A Political, Social, and Military History*, 2nd edition, ed. Spencer C. Tucker (Santa Barbara: ABC-CLIO, 2011), 55.
 
-<a name="9"></a><sup>9</sup> Lauren F. Winner, “Reaganizing Religion: Changing Political and Cultural Norms Among Evangelicals in Ronald Reagan’s America,” in *Living in the Eighties*, ed. Gil Troy and Vincent J. Cannato (New York: Oxford University Press, 2009), 181-198.
+<a name="9"></a><sup>9</sup> Lauren F. Winner, “Reaganizing Religion: Changing Political and Cultural Norms Among Evangelicals in Ronald Reagan's America,” in *Living in the Eighties*, ed. Gil Troy and Vincent J. Cannato (New York: Oxford University Press, 2009), 181-198.
 
 <a name="10"></a><sup>10</sup> Benjamin Kline, *First Along the River: A Brief History of the U.S. Environmental Movement* (New York: Rowman and Littlefield Publishers, 2011), 122.
 

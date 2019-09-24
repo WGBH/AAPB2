@@ -13,7 +13,7 @@ Curated by Amanda Reichenbach, the AAPB launched a new exhibit titled "Education
 ## June 2018
 
 ### New Special Collections
-The American Archive of Public Broadcasting (AAPB) launched five new Special Collections that feature raw interviews from American Experience’s *Freedom Riders*, *The Murder of Emmett Till*, *John Brown’s Holy War*, and *Jubilee Singers*, as well as WGBH’s Peabody award-winning documentary *Africans in America*. The collections are available online at http://americanarchive.org/special_collections.
+The American Archive of Public Broadcasting (AAPB) launched five new Special Collections that feature raw interviews from American Experience's *Freedom Riders*, *The Murder of Emmett Till*, *John Brown's Holy War*, and *Jubilee Singers*, as well as WGBH's Peabody award-winning documentary *Africans in America*. The collections are available online at http://americanarchive.org/special_collections.
 
 ## March 2018
 
@@ -26,11 +26,11 @@ Curated by AAPB Digital Exhibits Intern Kara Zelasko, “Protecting Places: Hist
 
 ### New Special Collections
 
-#### WNED’s *Woman* Series Collection
+#### WNED's *Woman* Series Collection
 
 ![Woman](https://s3.amazonaws.com/americanarchive.org/override/Woman.jpg "Woman Logo") The *Woman* Series Collection consists of 197 episodes of the Woman series produced by WNED in Buffalo, New York from 1972-1977. *Woman* was a half-hour public affairs talk show covering issues of interest to women. Guests included well-known and lesser-known activists, journalists, writers, scholars, lawyers, artists, psychologists, doctors and others such as Gloria Steinem, editor and co-founder of Ms. Magazine; Dorothy Pitman Hughes, African American activist and co-founder of Ms. Magazine; Betty Friedan, author of *The Feminine Mystique*; Florynce Kennedy, founder of the National Feminist Party; Margaret Sloan, co-founder of the National Black Feminist Organization; Karen DeCrow, then president of the National Organization for Women; Margaret Dunkle of the Project on the Status of Women for the Association of American Colleges; and Ruth Miller of the Buffalo Planned Parenthood Association.
 
-Topics discussed on *Woman* includes women in sports, the Equal Rights Amendment, sexuality, marriage, women’s health, divorce, the Women’s Liberation Movement, motherhood, and ageism, among others available online at [http://americanarchive.org/special_collections/woman-series](/special_collections/woman-series).
+Topics discussed on *Woman* includes women in sports, the Equal Rights Amendment, sexuality, marriage, women's health, divorce, the Women's Liberation Movement, motherhood, and ageism, among others available online at [http://americanarchive.org/special_collections/woman-series](/special_collections/woman-series).
 
 #### National Association of Educational Broadcasters Programs
 ![NAEB](https://s3.amazonaws.com/americanarchive.org/override/naeb-image.jpg "NAEB Logo") The National Association of Educational Broadcasters (NAEB) Programs Collection consists of more than 5,500 radio programs from the 1950s and 1960s, created by over 100 NAEB member stations from university and public school-run radio stations providing an in-depth look at the engagements and events of American history in the twentieth century.
@@ -56,7 +56,7 @@ In December 2017, the American Archive of Public Broadcasting launched ROLL THE 
 ## October 2017
 
 ### New Collections
-The AAPB recently acquired three collections of original, full-length interviews from groundbreaking public television documentaries: Ken Burns’ *The Civil War*, *Eyes on the Prize* and *American Masters*. Only excerpts of these interviews were included in previously released, edited programs. Now, the full-length interviews from these landmark series will be available to view online at americanarchive.org or in person at the Library of Congress and at WGBH, preserved for future generations to learn about our nation’s history.
+The AAPB recently acquired three collections of original, full-length interviews from groundbreaking public television documentaries: Ken Burns' *The Civil War*, *Eyes on the Prize* and *American Masters*. Only excerpts of these interviews were included in previously released, edited programs. Now, the full-length interviews from these landmark series will be available to view online at americanarchive.org or in person at the Library of Congress and at WGBH, preserved for future generations to learn about our nation's history.
 
 #### Interviews from Ken Burns' *The Civil War*
 ![Ken Burns' The Civil War](https://s3.amazonaws.com/americanarchive.org/special-collections/civil-war_small.jpeg "Ken Burns' The Civil War")*The Civil War*, an epic nine-episode series by the award-winning documentary filmmaker Ken Burns and produced in conjunction with WETA, Washington, DC and American Documentaries, Inc., first aired in September 1990 to an audience of 40 million viewers. The film is the recipient of 40 major film and television awards, including two Emmys and two Grammys.
@@ -66,7 +66,7 @@ The AAPB *The Civil War* interviews collection includes eight digitized, full-le
 #### Interviews from *Eyes on the Prize*
 ![Eyes on the Prize](https://s3.amazonaws.com/americanarchive.org/special-collections/eotp_small.jpeg "Eyes on the Prize")*Eyes on the Prize: America's Civil Rights Years 1954–1965* tells the definitive story of the civil rights era from the point of view of the ordinary men and women whose extraordinary actions launched a movement that changed the fabric of American life, and embodied a struggle whose reverberations continue to be felt today. The award-winning documentary series recounts the fight to end decades of discrimination and segregation from the murder of Emmett Till and the Montgomery bus boycott in 1955 and 1956 to the 1965 Voting Rights Campaign in Selma, Alabama. Eyes on the Prize was produced by Blackside, Inc. and aired on PBS in 1987.
 
-The *Eyes on the Prize* interviews collection comes from Washington University Libraries’ Henry Hampton Collection and includes 75 hours of full-length interviews with leaders and activists such as Rosa Parks, Constance Baker Motley, James Farmer, Robert Moses, Andrew Young, John Lewis, Ralph Abernathy, Stokely Carmichael and Myrlie Evers. The Eyes on the Prize collection is available online at [americanarchive.org/special_collections/eotp-i-interviews](/special_collections/eotp-i-interviews).
+The *Eyes on the Prize* interviews collection comes from Washington University Libraries' Henry Hampton Collection and includes 75 hours of full-length interviews with leaders and activists such as Rosa Parks, Constance Baker Motley, James Farmer, Robert Moses, Andrew Young, John Lewis, Ralph Abernathy, Stokely Carmichael and Myrlie Evers. The Eyes on the Prize collection is available online at [americanarchive.org/special_collections/eotp-i-interviews](/special_collections/eotp-i-interviews).
 
 #### Interviews from *American Masters*
 ![American Masters](https://s3.amazonaws.com/americanarchive.org/special-collections/american-masters_small.jpeg "American Masters")*American Masters*, produced by New York public television station THIRTEEN/WNET, is an award-winning biography series that celebrates arts and culture. Launched in 1986, the series has set the standard for documentary film profiles.

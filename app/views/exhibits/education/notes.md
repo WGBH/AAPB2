@@ -6,7 +6,7 @@
 
 ### Notes to Front Page
 
-<a name="1"></a><sup>1</sup> James Henry Jr., *An Address upon Education and Common Schools* (Albany, 1843), quoted in Johann N. Neem, *Democracy’s Schools: The Rise of Public Education in America* (Baltimore, MD: John Hopkins University Press, 2017), 31.
+<a name="1"></a><sup>1</sup> James Henry Jr., *An Address upon Education and Common Schools* (Albany, 1843), quoted in Johann N. Neem, *Democracy's Schools: The Rise of Public Education in America* (Baltimore, MD: John Hopkins University Press, 2017), 31.
 
 <a name="2"></a><sup>2</sup> Robert J. Blakely, *To Serve the Public Interest: Educational Broadcasting in the United States* (Syracuse, NY: Syracuse University Press, 1979), 84, quoted in Carolyn Norah Brooks, “Documentary Programming and the Emergence of the National Educational Television Center as a Network, 1958-1972” (PhD diss., The University of Wisconsin - Madison, 1994), 43.
 
@@ -27,9 +27,9 @@
 
 <a name="9"></a><sup>9</sup> Ibid., 97.
 
-<a name="10"></a><sup>10</sup> *N.E.T. Program Philosophy and Purpose: A Guideline for Staff Planning*, November 1964, from NET Papers, Vice-President for Development Files, Series 3, Box 2, Folder 17, 1, quoted in Brooks, “Documentary Programming,” 156-57. The complete document is available in the appendix of Brooks’s dissertation.
+<a name="10"></a><sup>10</sup> *N.E.T. Program Philosophy and Purpose: A Guideline for Staff Planning*, November 1964, from NET Papers, Vice-President for Development Files, Series 3, Box 2, Folder 17, 1, quoted in Brooks, “Documentary Programming,” 156-57. The complete document is available in the appendix of Brooks's dissertation.
 
-<a name="11"></a><sup>11</sup> Dana Goldstein, *The Teacher Wars: A History of America’s Most Embattled Profession* (New York: Anchor Books, 2015), 113.
+<a name="11"></a><sup>11</sup> Dana Goldstein, *The Teacher Wars: A History of America's Most Embattled Profession* (New York: Anchor Books, 2015), 113.
 
 <a name="12"></a><sup>12</sup> Day, *Vanishing Vision*, 23.
 
@@ -45,7 +45,7 @@
 
 <a name="18"></a><sup>18</sup>The Library of Congress is in the process of digitizing and making available in AAPB its extensive NET Collection. All programs mentioned in this exhibit that are not currently accessible online in AAPB are available to be viewed at the [Library of Congress Moving Image Research Center](http://www.loc.gov/rr/mopic/).
 
-<a name="19"></a><sup>19</sup> “News from NET” *America’s Crises: Marked For Failure*, n.d., from NET Programming Files, 1; Untitled document which lists NET’s Public/Cultural Affairs, 16, quoted in Brooks, “Documentary Programming,” 168.
+<a name="19"></a><sup>19</sup> “News from NET” *America's Crises: Marked For Failure*, n.d., from NET Programming Files, 1; Untitled document which lists NET's Public/Cultural Affairs, 16, quoted in Brooks, “Documentary Programming,” 168.
 
 <a name="20"></a><sup>20</sup> Other episodes include “Marked for Failure,” “Semester of Discontent,” and “The Teacher Gap.”
 
@@ -99,7 +99,7 @@
 
 <a name="44"></a><sup>44</sup> Moakley Archive and Institute, “Busing in Boston: A Research Guide,” Suffolk University in Boston, last modified 2015, https://www.suffolk.edu/documents/MoakleyArchive/BusingInBostonResearchGuide_2015.pdf, 1.
 
-<a name="45"></a><sup>45</sup> Bruce Gellerman, “‘It Was Like a War Zone’: Busing in Boston,” WBUR News, last modified September 5, 2014, http://www.wbur.org/news/2014/09/05/boston-busing-anniversary.
+<a name="45"></a><sup>45</sup> Bruce Gellerman, “‘It Was Like a War Zone': Busing in Boston,” WBUR News, last modified September 5, 2014, http://www.wbur.org/news/2014/09/05/boston-busing-anniversary.
 
 <a name="46"></a><sup>46</sup> *Eyes on the Prize: America's Civil Rights Movement*, “The Keys to the Kingdom (1974-80),” episode 7, PBS, first broadcast February 26, 1990, directed by Jacqueline Shearer and Paul Stekler, written by Steve Fayer.
 
@@ -142,13 +142,13 @@
 
 <a name="64"></a><sup>64</sup> Ari L. Goldman, “Covering Education: What's Our Grade?” *Columbia Journalism Review* 39, no. 3 (September/October 2000): 34, ProQuest Central.
 
-<a name="65"></a><sup>65</sup> George R. Kaplan, “TV’s Version of Education (And What to Do about It),” *Phi Delta Kappa International* 71, no. 5 (January 1990): K2, http://www.jstor.org/stable/20404158.
+<a name="65"></a><sup>65</sup> George R. Kaplan, “TV's Version of Education (And What to Do about It),” *Phi Delta Kappa International* 71, no. 5 (January 1990): K2, http://www.jstor.org/stable/20404158.
 
-<a name="66"></a><sup>66</sup> George R. Kaplan, “A Gentleman’s C for TV's Education Coverage,” in *Imaging Education: The Media and Schools in America*, ed. Gene I. Maeroff (New York: Teachers College Press, 1998), 200.
+<a name="66"></a><sup>66</sup> George R. Kaplan, “A Gentleman's C for TV's Education Coverage,” in *Imaging Education: The Media and Schools in America*, ed. Gene I. Maeroff (New York: Teachers College Press, 1998), 200.
 
 <a name="67"></a><sup>67</sup> John Merrow, *The Politics of Competence: A Review of Competency-Based Teacher Education* (Washington: Basic Skills Program on Teaching, National Institute of Education, 1974).
 
-<a name="68"></a><sup>68</sup> Kaplan, “Gentleman’s C,” 201.
+<a name="68"></a><sup>68</sup> Kaplan, “Gentleman's C,” 201.
 
 
 ### National Education Reforms on Local Television, 1990-Today

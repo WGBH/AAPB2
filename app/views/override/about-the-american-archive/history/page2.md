@@ -63,19 +63,19 @@ In February 2009, CPB contracted with Oregon Public Broadcasting to develop and
 manage a pilot project. Twenty-four public radio and television stations
 identified, restored, digitized, and made accessible nearly 2,500 hours of
 archival content related to two topics:  civil rights activities and World War
-II veterans’ stories. According to CPB, “stations reported that important
+II veterans' stories. According to CPB, “stations reported that important
 archival material had been lost or was in the process of decay, which
-reinforced the urgency of the American Archive’s mission.” The pilot project
+reinforced the urgency of the American Archive's mission.” The pilot project
 provided CPB with information to help plan future core American Archive
 activities, including inventorying, metadata gathering, restoration,
 analog-to-digital workflow, rights and permissions, and online
 access.[<sup>26</sup>](/about-the-american-archive/history/page3#26)
 
 In August 2009, CPB authorized the establishment of an American Archive office.
-The office extended the American Archive’s reach to public media entities
+The office extended the American Archive's reach to public media entities
 outside the definitions of the pilot project and had authority to establish new
 metadata standards, conduct an inventory of public media assets, commission a
-strategic technology plan for the American Archive’s operations, hire an
+strategic technology plan for the American Archive's operations, hire an
 executive director, and manage project
 components.[<sup>27</sup>](/about-the-american-archive/history/page3#27)
 
@@ -110,7 +110,7 @@ platforms.”[<sup>29</sup>](/about-the-american-archive/history/page3#29)
 
 ### Transition to a Permanent Home
 
-Congress cut CPB’s digital supplemental appropriation for fiscal year 2011 from
+Congress cut CPB's digital supplemental appropriation for fiscal year 2011 from
 $36 million to $6 million. For FY 2012, Congress failed to allocate any digital
 funds to CPB.  Current subsequently reported, “Having lost its digital projects
 fund last year, CPB lacks the money to develop the American Archive much
@@ -153,7 +153,7 @@ two-year period to complete the digitization project, ingest digital files,
 create a website for stations and the public, and develop plans for access,
 growth, and sustainability. Agreements between the parties involved were signed
 in August and September of 2013. WGBH and the Library chose “The American
-Archive of Public Broadcasting,” abbreviated as “AAPB,” for the program’s
+Archive of Public Broadcasting,” abbreviated as “AAPB,” for the program's
 official name.
 
 WGBH and the Library share governance responsibilities. WGBH is responsible for
