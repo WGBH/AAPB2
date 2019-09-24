@@ -348,6 +348,7 @@ DEPENDENCIES
   puma
   rack-cors (~> 1.0.2)
   rails (= 4.2.8)
+  redcarpet (= 3.4.0)
   rsolr
   rspec
   rspec-rails
@@ -366,7 +367,7 @@ DEPENDENCIES
   webmock
 
 RUBY VERSION
-   ruby 2.4.6p354
+   ruby 2.4.7p357
 
 BUNDLED WITH
    1.16.6

@@ -6,6 +6,7 @@ services:
       - "3000:3000"
     volumes:
       - sockets:/var/sockets
+      - bundle:/var/bundle
   nginx:
     image: test-aapb-nginx
     ports:
@@ -26,3 +27,4 @@ services:
 
 volumes:
   sockets:
+  bundle:

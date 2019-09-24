@@ -48,8 +48,9 @@ gem 'capistrano-rails', :group => :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem 'cmless', '1.0.0'
-
+# gem 'cmless', '1.0.0'
+# I must modify this damn thing
+gem 'cmless', path: './cmless'
 gem 'htmlentities', '~> 4.3.2'
 gem 'curb' # curl
 
@@ -98,3 +99,5 @@ gem 'nokogiri', '~> 1.8.4'
 gem 'bigdecimal'
 
 gem 'puma'
+
+gem 'redcarpet', '3.4.0'
