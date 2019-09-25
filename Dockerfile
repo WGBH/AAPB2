@@ -33,3 +33,4 @@ CMD ["bundle", "exec", "puma", "-b", "unix:///var/sockets/puma.sock", "-C", "con
  #&& rake jetty:config && rake jetty:start
 
 
+# MS word apostrophes BREAK cmless in teh docker ruby environment... causes the document to end, making any content after stupid apostrophe  missing in parsed xml doc
