@@ -6,7 +6,7 @@ THE FOLLOWING TERMS AND CONDITIONS GOVERN YOUR USE OF THE SITE. PLEASE READ
 THESE TERMS OF USE CAREFULLY BEFORE USING THIS SITE.
 
  
-By using the American Archive of Public Broadcasting (“AAPB”) website you agree 
+By using the American Archive of Public Broadcasting ("AAPB") website you agree 
 to be bound by these Terms of Use, [Privacy Policy](/legal/privacy), and the Discussion and 
 Comment Policy. If you do not agree to these Terms of Use, Privacy Policy, and 
 Discussion and Comment Policy, please exit the Site and do not use the Site or 
@@ -14,12 +14,12 @@ any of its features.
 
 This AAPB website (including all services, features, functionality and content 
 available through the americanarchive.org domain name, collectively, the 
-“Site”) is operated by the WGBH Educational Foundation (“WGBH”). The terms and 
-conditions of use (the “Terms” or “Terms of Use”) set forth herein apply to all 
+"Site") is operated by the WGBH Educational Foundation ("WGBH"). The terms and 
+conditions of use (the "Terms" or "Terms of Use") set forth herein apply to all 
 information, online communications, services, text, video, audio files, 
 graphics, still images, links, or other material and content that is or becomes 
 available on the Site or is otherwise offered through the Site (collectively, 
-“Content”). By accessing or using the Site, you specifically agree to abide by 
+"Content"). By accessing or using the Site, you specifically agree to abide by 
 these Terms and any modifications thereto. Any modifications, additions or 
 deletions to these Terms of Use or the Privacy Policy shall be effective 
 immediately upon posting. Your continued use of the Site following the posting 
@@ -125,7 +125,7 @@ the Content and may assign all rights herein to third parties.
 
 1. This Site may now or in the future permit the submission of data, video, 
 audio, images, textual content or other content submitted by you and other 
-users (“User Generated Content”) and the hosting, sharing and/or publishing of 
+users ("User Generated Content") and the hosting, sharing and/or publishing of 
 such User Generated Content. You understand that whether or not such User 
 Generated Content is published, WGBH does not guarantee confidentiality with 
 respect to any such User Generated Content. You acknowledge that User Generated 
@@ -262,7 +262,7 @@ treaty or intellectual property rights protected by law (such as copyright,
 patent and trademark rights). You acknowledge that the Content and materials 
 available on the Site includes intellectual property that is protected under 
 the copyright, trademark, and other intellectual property laws of the United 
-States and/or other countries (“Intellectual Property Laws”). Such Intellectual 
+States and/or other countries ("Intellectual Property Laws"). Such Intellectual 
 Property Laws generally prohibit the unauthorized reproduction, distribution, 
 or exhibition of all text, photographic and graphic (art and electronic) 
 images, music, sound samplings, and other protected materials. The violation of 
@@ -274,7 +274,7 @@ penalties.
 <p>1. If you are a copyright owner or an agent of a copyright owner and 
 believe that any content on the Site infringes upon your copyrights, you may 
 submit a notification to WGBH's Designated Agent pursuant to the Digital 
-Millennium Copyright Act (“DMCA”) section 17 USC 512 (c) (3). All notifications 
+Millennium Copyright Act ("DMCA") section 17 USC 512 (c) (3). All notifications 
 of claimed copyright infringement should be forwarded to our Designated Agent: 
 Eric Brass, One Guest Street, Boston, MA 02135, fax: 617–300-1014, email: 
 infringement@wgbh.org.</p>
@@ -342,7 +342,7 @@ required by law.
 ## K. Rogue Programming and Viruses
 
 WGBH is not responsible for any computer virus, trojan horse, time bomb, worm, 
-or any other rogue programming (“Rogue Programming”) that may be contained in 
+or any other rogue programming ("Rogue Programming") that may be contained in 
 any of the Content (including User Generated Content), material or software 
 contained on the Site. WGBH has no obligation to detect the presence of any 
 Rogue Programming. Any downloading of software or other materials or any other 
@@ -368,7 +368,7 @@ material.
 
 ## M. Disclaimer of Warranties
 
-The Site, the Content and other material on the Site are provided on an “As Is” 
+The Site, the Content and other material on the Site are provided on an "As Is" 
 basis without warranties of any kind, either express or implied, including 
 without limitation warranties of title, non-infringement, or implied warranties 
 of merchantability or fitness for a particular purpose. WGBH does not warrant 

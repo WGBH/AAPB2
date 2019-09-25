@@ -4,7 +4,7 @@
 
 ## Summary
 
-Part of what made the Watergate coverage so captivating was its exciting cast of characters. On July 13, 1973, Jim Lehrer said of the Committee, “Before Watergate, Baker was just Senator Dirksen's son in law, Ervin was just one of those charming, old Southern senators who voted against civil rights legislation, and on down the line. Now they have all become very important parts of our daily lives.” (click [here](/catalog/cpb-aacip_512-jh3cz33054#at_1975.00_s) to see MacNeil and Lehrer comment on each senator) In addition to the senators, a parade of cops, crooks, and campaign men each had their day before the Committee. The following page will help viewers identify these men (and one woman) while watching the broadcasts.
+Part of what made the Watergate coverage so captivating was its exciting cast of characters. On July 13, 1973, Jim Lehrer said of the Committee, "Before Watergate, Baker was just Senator Dirksen's son in law, Ervin was just one of those charming, old Southern senators who voted against civil rights legislation, and on down the line. Now they have all become very important parts of our daily lives." (click [here](/catalog/cpb-aacip_512-jh3cz33054#at_1975.00_s) to see MacNeil and Lehrer comment on each senator) In addition to the senators, a parade of cops, crooks, and campaign men each had their day before the Committee. The following page will help viewers identify these men (and one woman) while watching the broadcasts.
 
 ## Extended
 
@@ -342,7 +342,7 @@ Part of what made the Watergate coverage so captivating was its exciting cast of
 <tr>
 <td style="text-align:center">Campaign aide</td>
 <td style="text-align:center">CREEP aide, former FBI agent</td>
-<td style="text-align:center">“Dirty tricks” man</td>
+<td style="text-align:center">"Dirty tricks" man</td>
 </tr>
 <tr>
 <td style="text-align:center"><a href="/catalog/cpb-aacip_512-s17sn0210s#at_3494.00_s">6/7/73</a>, <a href="/catalog/cpb-aacip_512-599z02zv7t#at_432.00_s">6/12/73</a></td>
@@ -571,8 +571,8 @@ Part of what made the Watergate coverage so captivating was its exciting cast of
 <td style="text-align:center"><strong>Frederick J. Taugher</strong></td>
 </tr>
 <tr>
-<td style="text-align:center">Former OEO official, “Fat Jack”</td>
-<td style="text-align:center">Undercover agent in McGovern campaign, “Sedan Chair II”</td>
+<td style="text-align:center">Former OEO official, "Fat Jack"</td>
+<td style="text-align:center">Undercover agent in McGovern campaign, "Sedan Chair II"</td>
 <td style="text-align:center">McGovern campaign coordinator</td>
 </tr>
 <tr>

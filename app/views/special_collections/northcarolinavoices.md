@@ -8,9 +8,9 @@
 
 The <em>North Carolina Voices</em> Series Collection contains special radio programs produced by North Carolina Public Radio-WUNC that focused on North Carolina issues in depth. Two of the specific topics included here are the Civil War and poverty.
 
-The collection includes sixteen “family stories” recorded for <em>North Carolina Voices: Civil War</em>, which examined how the Civil War affects people in North Carolina 150 years after the start of the war. The series aired the weeks of June 13th and June 20th, 2011 and looked at the legacy of the war, how it is remembered, and how it shapes the identity of Southerners.
+The collection includes sixteen "family stories" recorded for <em>North Carolina Voices: Civil War</em>, which examined how the Civil War affects people in North Carolina 150 years after the start of the war. The series aired the weeks of June 13th and June 20th, 2011 and looked at the legacy of the war, how it is remembered, and how it shapes the identity of Southerners.
 
-<em>North Carolina Voices: Understanding Poverty</em> is a series of reports, documentaries, and call-in programs that aired in April 2005. The series contains two documentaries, three <em>The State of Things</em> programs, twenty features and audio portraits broadcast on <em>Morning Edition</em>, and twenty-two “What is Poverty?” audio shorts.
+<em>North Carolina Voices: Understanding Poverty</em> is a series of reports, documentaries, and call-in programs that aired in April 2005. The series contains two documentaries, three <em>The State of Things</em> programs, twenty features and audio portraits broadcast on <em>Morning Edition</em>, and twenty-two "What is Poverty?" audio shorts.
 
 The series asks: What is poverty? And how has poverty changed since the 1960s? The series looks back to the 1960s, beginning with the North Carolina Fund. <em>North Carolina Voices: Understanding Poverty</em> examines how times have changed. The series uses a variety of narrative forms to give listeners access to competing perspectives about what poverty is today and how and why poverty is changing.
 

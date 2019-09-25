@@ -6,7 +6,7 @@ The AAPB website provides the general public with access to the AAPB Online Read
 looking for, or at least narrow your search on the AAPB website, is to conduct 
 keyword searches in the search bar. Then, you can filter the retrieved results 
 using the browsing options (facets) that appear on the left side of the search 
-results page. You also can limit search results by inputting additional keyword search terms into the search box at the top of the screen that contains your initial search term. Using quotation marks around phrases (e.g., “civil rights”) will retrieve results in which that exact phrase appears in a record. If you come to the website not looking for anything in particular, check out the [Browse the Collection](http://americanarchive.org/#browse) section on the homepage for possible content to browse.
+results page. You also can limit search results by inputting additional keyword search terms into the search box at the top of the screen that contains your initial search term. Using quotation marks around phrases (e.g., "civil rights") will retrieve results in which that exact phrase appears in a record. If you come to the website not looking for anything in particular, check out the [Browse the Collection](http://americanarchive.org/#browse) section on the homepage for possible content to browse.
 
 If you type keywords into the search box, you will be searching all of the 
 fields in all of the records in the Online Reading Room. Conducting a keyword search using the search box (as opposed to the [Advanced Search](/advanced) option) is the most fail-safe way to search the collection because it will retrieve relevant results based on the data available, even if that data has not be entered into the correct field. 

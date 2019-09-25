@@ -68,7 +68,7 @@ If your plan to contribute files for preservation in the AAPB, we would prefer t
 
 **Video preservation file specification details**
 
-Image essence coding: 10 bit JPEG2000 reversible 5/3 (aka “mathematically lossless”)
+Image essence coding: 10 bit JPEG2000 reversible 5/3 (aka "mathematically lossless")
 
 Interlace frame coding: 2 fields per frame, 1 KLV per frame
 

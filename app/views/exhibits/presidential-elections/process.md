@@ -8,7 +8,7 @@
 The founding fathers devised the presidential electoral process in the United States with the intention of establishing a representative democracy in which citizens cast votes for a slate of electors, rather than having the popular vote determine the election outcome. Presented in the Records of the Federal Convention of 1787, Congress asserted that by
 
  >
-*“apportioning, limiting, and confining the Electors within their respective States, and by the guarded manner of giving and transmitting the ballots of the Electors to the Seat of Government, that intrigue, combination, and corruption, would be effectually shut out, and a free and pure election of the President of the United States made perpetual,”*[<sup>4</sup>](/exhibits/presidential-elections/notes#4)
+*"apportioning, limiting, and confining the Electors within their respective States, and by the guarded manner of giving and transmitting the ballots of the Electors to the Seat of Government, that intrigue, combination, and corruption, would be effectually shut out, and a free and pure election of the President of the United States made perpetual,"*[<sup>4</sup>](/exhibits/presidential-elections/notes#4)
 
 The founders left the details to future legislatures, however, and likely unaware of the development of partisan politics would come to rule U.S presidential elections. States began holding primaries in the first decade of the 20th century, but it was not until Teddy Roosevelt sought the Republican nomination via primary elections (and lost) in 1912, and the subsequent establishment of the Progressive Party, that the primary system began to develop into its contemporary, yet ever-evolving, form.[<sup>5</sup>](/exhibits/presidential-elections/notes#5)
 

@@ -218,7 +218,7 @@ The American Archive of Public Broadcasting holds the full run of NPACT's covera
 <td style="text-align:center"><a href="http://hdl.handle.net/2027/mdp.39015078682559">v. 1 bk. 3</a></td>
 <td style="text-align:center"><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Watergate_Episode_Guide.pdf">Episode Guide</a></td>
 <td style="text-align:center"><a href="/catalog/cpb-aacip_512-125q815b4c#at_18.00_s">John W. Dean</a></td>
-<td style="text-align:center"><a href="/catalog/cpb-aacip_512-251fj2b06r#at_512.00_s">“Cancer on the Presidency”</a></td>
+<td style="text-align:center"><a href="/catalog/cpb-aacip_512-251fj2b06r#at_512.00_s">"Cancer on the Presidency"</a></td>
 </tr>
 <tr>
 <td style="text-align:center">13</td>
@@ -248,7 +248,7 @@ The American Archive of Public Broadcasting holds the full run of NPACT's covera
 <td style="text-align:center"><a href="http://hdl.handle.net/2027/mdp.39015078682567">v. 1 bk. 4</a></td>
 <td style="text-align:center"><a href="https://s3.amazonaws.com/americanarchive.org/exhibits/Watergate_Episode_Guide.pdf">Episode Guide</a></td>
 <td style="text-align:center"><a href="/catalog/cpb-aacip_512-b27pn8z46m#at_480.00_s">John W. Dean</a></td>
-<td style="text-align:center"><a href="/catalog/cpb-aacip_512-j09w08x77b#at_3579.00_s">“What did the President know, and when did he know it?”</a></td>
+<td style="text-align:center"><a href="/catalog/cpb-aacip_512-j09w08x77b#at_3579.00_s">"What did the President know, and when did he know it?"</a></td>
 </tr>
 <tr>
 <td style="text-align:center">16</td>

@@ -17,7 +17,7 @@ In June 2017, the Andrew W. Mellon Foundation awarded WGBH a grant to support th
 
 ### PBCore Development and Training Project
 
-In 2016, the National Endowment for the Humanities (NEH) awarded WGBH a Preservation and Access Research and Development grant to pursue the PBCore Development and Training Project. Short for “Public Broadcasting Metadata Dictionary,” PBCore is a metadata schema – a standard for organizing information – for the management of public media and audiovisual collections in the United States. WGBH will use the grant funds to develop tools, methodologies and training workshops to make PBCore more accessible to archivists and public media organizations over the course of this 27-month project. [Read more about the PBCore Development and Training Project](/about-the-american-archive/projects/pbcore).
+In 2016, the National Endowment for the Humanities (NEH) awarded WGBH a Preservation and Access Research and Development grant to pursue the PBCore Development and Training Project. Short for "Public Broadcasting Metadata Dictionary," PBCore is a metadata schema – a standard for organizing information – for the management of public media and audiovisual collections in the United States. WGBH will use the grant funds to develop tools, methodologies and training workshops to make PBCore more accessible to archivists and public media organizations over the course of this 27-month project. [Read more about the PBCore Development and Training Project](/about-the-american-archive/projects/pbcore).
 
 ### PBS NewsHour Digitization Project
 

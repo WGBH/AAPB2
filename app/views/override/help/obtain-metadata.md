@@ -59,7 +59,7 @@ requested.
  
 When the email arrives, click the link to download records. Un-zip the folder 
 using software compatible with your system, such as WinZip or UnRAR. In the 
-directory named “data” there will be one sub-directory for each of your 
+directory named "data" there will be one sub-directory for each of your 
 organization's assets, and each will be titled with the AAPB GUID of the asset. 
 Within each folder, there will be a PBCore XML file. If the asset has been 
 digitized, there also will be a PREMIS XML file, which includes migration 

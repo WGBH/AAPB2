@@ -4,7 +4,7 @@
 
 ## Summary
 
-<a name="1"></a><sup>1</sup>  Norman Tyler, Ted Ligibel, and Ilene R. Tyler. *Historic Preservation: An Introduction to Its History, Principles, and Practice* (New York: W.W. Norton & Co., 2009), 123-6. Also see Max Page and Randall Mason, “Rethinking the Roots of the Historic Preservation Movement” in *Giving Preservation a History: Histories of Historic Preservation in the United States* (New York: Routledge, 2004): 6-7.
+<a name="1"></a><sup>1</sup>  Norman Tyler, Ted Ligibel, and Ilene R. Tyler. *Historic Preservation: An Introduction to Its History, Principles, and Practice* (New York: W.W. Norton & Co., 2009), 123-6. Also see Max Page and Randall Mason, "Rethinking the Roots of the Historic Preservation Movement" in *Giving Preservation a History: Histories of Historic Preservation in the United States* (New York: Routledge, 2004): 6-7.
 
 
 <a name="2"></a><sup>2</sup> Patricia West, "Inventing a House Undivided: Antebellum Cultural Politics and the Enshrinement of Mount Vernon," in *Domesticating History: The Political Origins of America's House Museums* (Washington: Smithsonian Institution Press, 1999), 1.
@@ -34,7 +34,7 @@
 
 <a name="14"></a><sup>14</sup> Tyler, Ligibel, and Tyler. *Historic Preservation*, 24.
 
-<a name="15"></a><sup>15</sup> Cynthia Duquette Smith and Teresa Bergman, “You Were on Indian Land: Alcatraz Island as a Recalcitrant Memory Space,” in *Places of Public Memory: The Rhetoric of Museums and Memorials*, ed. Greg Dickinson, Carole Blair and Brian L. Ott (Tuscaloosa: Univeristy of Alabama Press, 2010), 163-4.
+<a name="15"></a><sup>15</sup> Cynthia Duquette Smith and Teresa Bergman, "You Were on Indian Land: Alcatraz Island as a Recalcitrant Memory Space," in *Places of Public Memory: The Rhetoric of Museums and Memorials*, ed. Greg Dickinson, Carole Blair and Brian L. Ott (Tuscaloosa: Univeristy of Alabama Press, 2010), 163-4.
 
 <a name="16"></a><sup>16</sup> Malia Wollan, "Antigovernment Graffiti Restored, Courtesy of Government," *New York Times*, December 24, 2012, [http://www.nytimes.com/2012/12/25/us/alcatraz-american-indian-occupation-graffiti-preserved.html](http://www.nytimes.com/2012/12/25/us/alcatraz-american-indian-occupation-graffiti-preserved.html).
 

@@ -1,10 +1,10 @@
 # AAPB Online Reading Room Rules of Use
 
-The American Archive of Public Broadcasting (the “AAPB”) is a project managed 
+The American Archive of Public Broadcasting (the "AAPB") is a project managed 
 collaboratively by the WGBH Educational Foundation and the Library of Congress 
-(“we” or “us”). The AAPB seeks to preserve and make accessible significant 
+("we" or "us"). The AAPB seeks to preserve and make accessible significant 
 historical content created by public media, and the AAPB's Online Reading Room 
-(the “ORR”) plays a central role in our mission. In the ORR, you can view and 
+(the "ORR") plays a central role in our mission. In the ORR, you can view and 
 listen to thousands of hours of digitized archival materials free of charge. We 
 make the ORR and all content therein available in accordance with the copyright 
 law of the United States, including the legal doctrine of fair use (17 U.S.C. 
@@ -13,10 +13,10 @@ law of the United States, including the legal doctrine of fair use (17 U.S.C.
 ### 1.  Authorized Users
 
 By using or accessing the ORR, you accept and agree to be bound by these Rules 
-of Use (“Rules”). If you are using the ORR on behalf of an organization, you 
+of Use ("Rules"). If you are using the ORR on behalf of an organization, you 
 accept these Rules on behalf of your organization, agree that your organization 
 is bound by these Rules, and represent that you have the authority to bind your 
-organization to these Rules. In such cases, “you” and “your” refers to both you 
+organization to these Rules. In such cases, "you" and "your" refers to both you 
 as an individual and your organization. We reserve the right to revoke your 
 authorization to use the ORR in our sole discretion at any time.
 
@@ -123,8 +123,8 @@ security of your password, or its unauthorized use, promptly to
 ### 5.  Liability
 
 **5.a.** You agree to indemnify us and our subsidiaries, affiliates, agents, 
-officers, directors, trustees, and employees (collectively the “Indemnified 
-Parties”) from and against any and all liability, loss, claims, damages, costs, 
+officers, directors, trustees, and employees (collectively the "Indemnified 
+Parties") from and against any and all liability, loss, claims, damages, costs, 
 penalties, and/or actions (including attorneys' fees) if your use of the ORR 
 creates any liability for the Indemnified Parties. 
 

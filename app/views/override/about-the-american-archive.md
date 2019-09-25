@@ -56,7 +56,7 @@ data records for approximately 2.5 million items inventoried by public
 broadcasting stations for this project.
 
 >
-I am very excited and supportive of the proposed “American Archive” project.
+I am very excited and supportive of the proposed "American Archive" project.
 Because public radio and television stations have such a rich tradition of
 documenting our national story, it is natural to want to harness the power of
 digital technology and telecommunications to preserve public broadcasting's
@@ -165,8 +165,8 @@ generations and must not be left to fade away.
 <footer>Jon Abbott, President and CEO of WGBH Boston</footer>
 
 
-“Acquire, preserve, and provide access to a universal collection of knowledge
-and the record of America's creativity” is a key strategic goal of the Library
+"Acquire, preserve, and provide access to a universal collection of knowledge
+and the record of America's creativity" is a key strategic goal of the Library
 of Congress. Adopting the American Archive project advances the mission of the
 Library of Congress, as America's national library, to preserve our nation's
 broadcast history for future generations and further the progress of knowledge

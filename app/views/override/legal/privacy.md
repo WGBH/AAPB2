@@ -1,10 +1,10 @@
 # AAPB Privacy Policy
 
  
-Thank you for visiting americanarchive.org (the “Site”). We know you don't want 
+Thank you for visiting americanarchive.org (the "Site"). We know you don't want 
 the information you provide us shared indiscriminately. Here we explain what 
-information the WGBH Educational Foundation (“WGBH”) (and our third-party 
-vendors and/or service providers (collectively “we”) acting on our behalf to 
+information the WGBH Educational Foundation ("WGBH") (and our third-party 
+vendors and/or service providers (collectively "we") acting on our behalf to 
 help deliver the services and operate and analyze use of the Site), collects, 
 what we do with the information, and what controls you have over the 
 information collected. We're committed to ensuring the privacy of your 
@@ -15,7 +15,7 @@ financial transactions and transmit your personal data with full confidence.
 The privacy policy set forth here refers solely to americanarchive.org. Please 
 read it carefully, and if you have any questions or concerns, please contact 
 us. Also, note that americanarchive.org links to other sites, such as the 
-Corporation for Public Broadcasting (“CPB”), Library of Congress, and other 
+Corporation for Public Broadcasting ("CPB"), Library of Congress, and other 
 participating organizations' websites. Please consult those sites to learn more 
 about their policies.
 
@@ -118,7 +118,7 @@ site domain, as well as related information such as the date on which you visit
 the Site. This information does not identify you personally and is only used in 
 the aggregate.
 
-As is common practice among web sites, we use “cookies” and similar 
+As is common practice among web sites, we use "cookies" and similar 
 technologies. In general, cookies — the informational files that your web 
 browser places on your computer when you visit a website — are used on this 
 Site to track and analyze how you and other visitors use our Site. We use these 
@@ -158,7 +158,7 @@ marketing promotional purposes as further described in this policy.
 
 We will typically explain the extent of use at the time you are asked to 
 provide personal information. If you do not want this information to be 
-collected or used by us for these purposes, you can simply “opt out.” Under 
+collected or used by us for these purposes, you can simply "opt out." Under 
 certain circumstances, opting out may prevent your participation in activities 
 for which personal information is needed, as in contests.
 
@@ -193,7 +193,7 @@ anyone's rights, property or safety.
 
 On certain pages, we may now or in the future, offer visitors the opportunity 
 to provide comments, messages or other user-generated text, content or 
-materials (collectively “User Materials”). Any information that you disclose 
+materials (collectively "User Materials"). Any information that you disclose 
 when posting a message to these areas, such as your name, screen name or ID 
 used, becomes public. In addition, the information that you disclose in these 
 areas may be used by us for promotional and marketing purposes. We are not 
@@ -216,7 +216,7 @@ your participation in those activities.
 
 We may offer an email listserv via third party services. We will always provide 
 a clear and convenient method of unsubscribing to our mailings. If you no 
-longer wish to receive a specific newsletter, follow the “unsubscribe” 
+longer wish to receive a specific newsletter, follow the "unsubscribe" 
 instructions located in each newsletter or email, or by going to the Site's 
 Contact Us page and send us a message. We will update our records as soon as 
 possible.

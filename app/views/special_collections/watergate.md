@@ -7,7 +7,7 @@
 
 ## Summary
 
-The Watergate Hearings Collection covers 51 days of broadcasts of the Senate Watergate hearings from May 17, 1973, to November 15, 1973, and seven sessions of the House impeachment hearings on May 9 and July 24 – 30, 1974. The hearings, recorded by the National Public Affairs Center for Television (NPACT), were broadcast each evening in full, or “gavel to gavel,” by PBS stations across the nation, so that viewers unable to watch during the day could view the complete proceedings at home. Anchors Robert MacNeil and Jim Lehrer provided summaries, commentary, and interviews to supplement each broadcast. The coverage includes testimony from James McCord and E. Howard Hunt, two of the men arrested for breaking into the Watergate complex; John Dean, White House counsel from July 1970 to April 1973, who detailed the extent of the Nixon administration's involvement in the burglary and subsequent cover-up; Chief of Staff H.R. Haldeman and Chief Advisor for Domestic Affairs John Ehrlichman, two of President Nixon's closest advisors, who denied there was any White House wrongdoing; Alexander Butterfield, a former minor White House aide who revealed the existence of a secret audio tape-recording system that documented Oval Office conversations; and Rep. Barbara Jordan, a freshman member of the House Judiciary Committee, whose eloquent opening statement at the impeachment proceedings resonated throughout the hearing room and the nation. A full cast of characters is available in our [“Gavel-to-Gavel” exhibit](http://americanarchive.org/exhibits/watergate/cast-of-characters).
+The Watergate Hearings Collection covers 51 days of broadcasts of the Senate Watergate hearings from May 17, 1973, to November 15, 1973, and seven sessions of the House impeachment hearings on May 9 and July 24 – 30, 1974. The hearings, recorded by the National Public Affairs Center for Television (NPACT), were broadcast each evening in full, or "gavel to gavel," by PBS stations across the nation, so that viewers unable to watch during the day could view the complete proceedings at home. Anchors Robert MacNeil and Jim Lehrer provided summaries, commentary, and interviews to supplement each broadcast. The coverage includes testimony from James McCord and E. Howard Hunt, two of the men arrested for breaking into the Watergate complex; John Dean, White House counsel from July 1970 to April 1973, who detailed the extent of the Nixon administration's involvement in the burglary and subsequent cover-up; Chief of Staff H.R. Haldeman and Chief Advisor for Domestic Affairs John Ehrlichman, two of President Nixon's closest advisors, who denied there was any White House wrongdoing; Alexander Butterfield, a former minor White House aide who revealed the existence of a secret audio tape-recording system that documented Oval Office conversations; and Rep. Barbara Jordan, a freshman member of the House Judiciary Committee, whose eloquent opening statement at the impeachment proceedings resonated throughout the hearing room and the nation. A full cast of characters is available in our ["Gavel-to-Gavel" exhibit](http://americanarchive.org/exhibits/watergate/cast-of-characters).
 
 ## Background
 
@@ -24,16 +24,16 @@ The Watergate hearings were produced by the National Public Affairs Center for T
 
 ## Resources
 
-- [“Gavel-to-Gavel”: The Watergate Scandal and Public Television](http://americanarchive.org/exhibits/watergate)
+- ["Gavel-to-Gavel": The Watergate Scandal and Public Television](http://americanarchive.org/exhibits/watergate)
 - [The Watergate Files Exhibit, Ford Library Museum](https://www.fordlibrarymuseum.gov/museum/exhibits/Watergate_files/index.html)
-- [“Covering Watergate: 40 Years Later with MacNeil and Lehrer”, PBS](https://www.pbs.org/newshour/show/covering-watergate-40-years-later-with-macneil-and-lehrer)
+- ["Covering Watergate: 40 Years Later with MacNeil and Lehrer", PBS](https://www.pbs.org/newshour/show/covering-watergate-40-years-later-with-macneil-and-lehrer)
 - [Watergate Trial Tapes, Nixon Library](https://www.nixonlibrary.gov/watergate-trial-tapes)
 
 ## Funders
 
 ## Help
 
-Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box.
+Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking "Explore the Collection" below the search box.
 
 Each day's hearings are broken up into multiple parts, which are linked together and named as such.
 
