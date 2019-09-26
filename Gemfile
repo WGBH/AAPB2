@@ -101,5 +101,5 @@ gem 'bigdecimal'
 gem 'puma'
 
 gem 'redcarpet', '3.4.0'
-gem 'rake', '12.3.1'
+# gem 'rake', '12.3.1'
 # gem 'require_all'

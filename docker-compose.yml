@@ -1,12 +1,5 @@
 version: '3'
 services:
-  web:
-    image: test-aapb
-    ports:
-      - "3000:3000"
-    volumes:
-      - sockets:/var/sockets
-      - bundle:/var/bundle
   nginx:
     image: test-aapb-nginx
     ports:
@@ -20,10 +13,15 @@ services:
       - "8983:8983"
     volumes:
       - sockets:/var/sockets
-
-# no jettywrapper if you gon do this!
-#  solr:
-#    image: solr:6.6.6
+  web:
+    depends_on:
+      - solr
+    image: test-aapb
+    ports:
+      - "3000:3000"
+    volumes:
+      - sockets:/var/sockets
+      - bundle:/var/bundle
 
 volumes:
   sockets:
