@@ -42,5 +42,7 @@ module Xyz
       @mmdb = MaxMindDB.new(Rails.root + 'config/GeoLite2-Country.mmdb')
       Rails.cache.write('maxmind_db', @mmdb)
     end
+
+    config.encoding = "utf-8"
   end
 end

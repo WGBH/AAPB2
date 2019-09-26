@@ -15,7 +15,7 @@ WORKDIR /tmp
 ADD ./Gemfile Gemfile
 ADD ./Gemfile.lock Gemfile.lock
 ADD ./cmless/ cmless/
-RUN bundle install 
+RUN bundle install
 
 
 WORKDIR /var/www/aapb

@@ -7,6 +7,16 @@ require 'logger'
 require 'rake'
 require 'active_support/core_ext/string'
 
+# Dir["#{File.dirname(__FILE__)}/**/*.rb"].each {|file| require file unless file.end_with?('download_clean_ingest.rb') }
+
+# require 'rubygems'
+# require 'bundler'
+# Bundler.require(:default)
+
+# require File.expand_path('../../config/environment', __FILE__)
+# Dir["#{File.dirname(__FILE__)}/../lib/**/*.rb"].each {|file| require file }
+# Dir["#{File.dirname(__FILE__)}/../app/**/*.rb"].each {|file| require file }
+
 class Exception
   def short
     message + "\n" + backtrace[0..2].join("\n")
