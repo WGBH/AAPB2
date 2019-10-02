@@ -11,9 +11,9 @@
 # how to start up solr, generally for automated testing. 
 
 development:
-  url: <%= "http://#{ENV['AAPB_SOLR_HOST']}:8983/solr/blacklight-core" %>
+  url: 'http://docker-aapb_solr_1:8983/solr/blacklight-core'
 test:
-  url: <%= "http://#{ENV['AAPB_SOLR_HOST']}:8983/solr/blacklight-core" %>
+  url: 'http://docker-aapb_solr_1:8983/solr/blacklight-core'
   # TODO: Get separate dev and test cores, and change this back to 8888. bug #1
 production:
-  url: <%= "http://#{ENV['AAPB_SOLR_HOST']}:8983/solr/blacklight-core" %>
+  url: 'http://docker-aapb_solr_1:8983/solr/blacklight-core'

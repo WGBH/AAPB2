@@ -335,7 +335,7 @@ class PBCorePresenter
   end
   def playlist_map
     @playlist_map ||= begin
-      response = RSolr.connect(url: 'http://docker-aapb_solr_1:8983/solr/').get('select', params:
+      response = RSolr.connect(url: 'http://docker-aapb_solr_1:8983/solr/blacklight-core').get('select', params:
       {
         'fl' => 'playlist_order,id',
         'fq' => "playlist_group:#{playlist_group}",

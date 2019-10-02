@@ -112,7 +112,7 @@ class Downloader
     q = QueryMaker.translate(query)
     $LOG.info("Query solr for #{query}")
 
-    @options[:ids] = RSolr.connect(url: "http://#{ENV['AAPB_SOLR_HOST']}:8983/solr/")
+    @options[:ids] = RSolr.connect(url: "http://docker-aapb_solr_1:8983/solr/blacklight-core")
                           .get('select',
                                params: { q: q, fl: 'id', rows: MAX_ROWS }
                               )['response']['docs'].map { |doc| doc['id'] }

@@ -13,6 +13,7 @@ services:
       - "8983:8983"
     volumes:
       - sockets:/var/sockets
+      
   web:
     depends_on:
       - solr

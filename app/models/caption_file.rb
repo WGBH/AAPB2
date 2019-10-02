@@ -68,7 +68,7 @@ class CaptionFile
 
   def self.clean_query_for_captions(query)
     stopwords = []
-    File.read(Rails.root.join('jetty', 'solr', 'blacklight-core', 'conf', 'stopwords.txt')).each_line do |line|
+    File.read(Rails.root.join('solr_conf', 'stopwords.txt')).each_line do |line|
       next if line.start_with?('#') || line.empty?
       stopwords << line.upcase.strip
     end

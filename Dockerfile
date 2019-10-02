@@ -18,14 +18,12 @@ ADD ./Gemfile.lock Gemfile.lock
 ADD ./cmless/ cmless/
 RUN bundle install
 
-
 WORKDIR /var/www/aapb
 COPY . .
 
 # RUN bundle exec ruby scripts/download_clean_ingest.rb --stdout-log --files /var/www/aapb/spec/fixtures/pbcore/clean-*.xml 
 
 EXPOSE 3000
-EXPOSE 4420
 
 # CMD ["bundle", "exec", "puma", "-b", "unix:///var/sockets/puma.sock", "-C", "config/puma.rb"]
 CMD ["bundle", "exec", "puma", "-b", "unix:///var/sockets/puma.sock", "-C", "config/puma.rb"]
