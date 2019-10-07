@@ -25,8 +25,9 @@ COPY . .
 
 EXPOSE 3000
 
+# works
 # CMD ["bundle", "exec", "puma", "-b", "unix:///var/sockets/puma.sock", "-C", "config/puma.rb"]
-CMD ["bundle", "exec", "puma", "-b", "unix:///var/sockets/puma.sock", "-C", "config/puma.rb"]
+CMD ["bundle", "exec", "puma", "-p", "3000", "-C", "config/puma.rb"]
 
 
 

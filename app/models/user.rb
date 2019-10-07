@@ -18,7 +18,8 @@ class User
   end
 
   def onsite?
-    onsite_ip_ranges.map { |range| range.include?(request.remote_ip) }.any?
+    # we get the client's real IP in requests when running in docker, instead of localhost, so pass through!
+    Rails.env.development? || onsite_ip_ranges.map { |range| range.include?(request.remote_ip) }.any?
   end
 
   def usa?
@@ -69,8 +70,8 @@ class User
   def onsite_ip_ranges
     @onsite_ip_ranges ||= begin
       ranges = [WGBH_IP_RANGE, LOC_IP_RANGE]
-      ranges << IPAddr.new('127.0.0.1') if Rails.env.development?
-      ranges << IPAddr.new('::1') if Rails.env.development?
+      # ranges << IPAddr.new('127.0.0.1') if Rails.env.development?
+      # ranges << IPAddr.new('::1') if Rails.env.development?
       ranges
     end
   end

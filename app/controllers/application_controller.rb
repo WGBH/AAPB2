@@ -13,19 +13,4 @@ class ApplicationController < ActionController::Base
   def current_user
     User.new(request)
   end
-
-  # def default_url_options
-  #   if Rails.env.production?
-  #     {:host => "americanarchive.org"}
-  #   else  
-  #     {host: 'localhost:8080'}
-  #   end
-  # end
-
-  def search_action_url
-    # override blacklight url helper because docker container doesnt know what localhost port the browser needs in development, by default gives no port
-    dupe_options = url_options.deep_dup
-    dupe_options[:port] = '3000' unless Rails.env.production?
-    catalog_index_url(dupe_options)
-  end
 end

@@ -1,11 +1,17 @@
 version: '3'
 services:
   nginx:
+    # environment:
+    #   # change this!
+    #   - AAPB_ENV=dev
     image: test-aapb-nginx
     ports:
       - "8080:80"
     volumes:
       - sockets:/var/sockets
+    # so we can see the aapb host
+    depends_on: 
+      - web
 
   solr:
     image: test-aapb-solr
@@ -15,11 +21,10 @@ services:
       - sockets:/var/sockets
       
   web:
+    # so we wait for solr
     depends_on:
       - solr
     image: test-aapb
-    ports:
-      - "3000:3000"
     volumes:
       - sockets:/var/sockets
       - bundle:/var/bundle

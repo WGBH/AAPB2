@@ -201,7 +201,6 @@ class CatalogController < ApplicationController
                else
                  PBCorePresenter::PUBLIC_ACCESS
                end
-               require('pry');binding.pry
       redirect_to "/catalog?#{base_query}&f[access_types][]=#{access}"
     else
       super
