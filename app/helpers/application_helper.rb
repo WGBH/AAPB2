@@ -6,7 +6,7 @@ module ApplicationHelper
   def clean_query_for_snippet(query)
     # remove stopwords from query
     stopwords = []
-    File.read(Rails.root.join('solr_conf', 'stopwords.txt')).each_line do |line|
+    File.read(Rails.root.join('config', 'stopwords.txt')).each_line do |line|
       next if line.start_with?('#') || line.empty?
       stopwords << line.upcase.strip
     end
