@@ -53,6 +53,8 @@ Rails.application.routes.draw do
   get '/exhibits/*path', to: 'exhibits#show', constraints: override_constraints
   get '/special_collections', to: 'special_collections#index'
   get '/special_collections/*path', to: 'special_collections#show', constraints: override_constraints
+  get '/webinars', to: 'webinars#index'
+  get '/webinars/*path', to: 'webinars#show', constraints: override_constraints
   get '/plain_override/*path', to: 'plain_override#show', constraints: override_constraints
   get '/topical_resources', to: 'topical_resources#index'
 

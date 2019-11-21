@@ -1,0 +1,27 @@
+<% content_for :main do %>
+  <div class="row">
+    <div class="col-md-12 gallery-intro">
+      <p>The American Archive of Public Broadcasting (AAPB) hosts online webinars to inform audiences about aspects of the AAPB collection, as well as examples of the collection in research, library guides, curriculums, and more. Below is a list of completed webinars with links to presentation materials, recordings, downloadable powerpoints, and post-webinar resources. </p>
+    </div>
+  </div>
+  <div class="row gallery-index" id="documents">
+    <% @webinars.each do |web| %>
+      <div class="gallery col-xs-12 col-sm-6 col-md-4">
+        <div class="gallery-thumbnail">
+          <a href="/webinars/<%= web.path %>">
+            <img src="<%= web.thumbnail_url %>" alt="<%= web.title %>" aria-hidden="true">
+          </a>
+        </div>
+        <h2 class="index-title">
+          <a href="/webinars/<%= web.path %>"><%= web.title %></a>
+        </h2>
+      </div>
+    <% end %>
+  </div>
+<% end %>
+
+<%= render partial: 'shared/gallery_title',
+           locals: {
+            title: 'Webinars',
+            main: yield(:main)
+           } %>

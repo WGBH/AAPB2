@@ -1,0 +1,37 @@
+<% content_for :main do %>
+  <div class="row">
+    <div class="col-md-12 breadcrumb-row">
+      <ol class="collection-breadcrumb hidden-xs" style="margin-top: 0px;">
+        <li><a href="/webinars">Back to Webinars</a></li>
+      </ol>
+    </div>
+    <div class="col-md-6">
+      <div class="col-md-12">
+        <%= @webinar.webinar_html.html_safe %>
+      </div>
+    </div>
+    <div class="col-md-6 collection-about-col">
+      <div class="collection-about">
+        <h2>Webinar Summary</h2>
+        <%= @webinar.summary_html.html_safe %>
+      </div>
+    </div>
+  </div>
+   <div class="row">
+    <div class="col-md-12 funders-resources-col">
+      <% if !@webinar.resources_html.html_safe.blank? %>
+        <div class="row resources-row">
+          <h2>Other Resources</h2>
+          <div class="col-md-12 collection-resources">
+            <%= @webinar.resources_html.html_safe %>
+          </div>
+        </div>
+      <% end %>
+    </div>
+  </div>
+<% end %>
+
+<%= render partial: 'shared/gallery_title',
+           locals: {
+             main: yield(:main)
+           } %>
