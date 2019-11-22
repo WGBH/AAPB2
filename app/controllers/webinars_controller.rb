@@ -2,7 +2,7 @@ require_relative '../models/webinar'
 
 class WebinarsController < OverrideController
   def index
-    @webinars = Webinar.all_top_level
+    @webinars = Webinar.all_webinars
     @page_title = 'AAPB Webinars'
   end
 

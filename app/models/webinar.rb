@@ -10,8 +10,8 @@ class Webinar < Cmless
   attr_reader :resources_html
   attr_reader :webinar_html
 
-  def self.all_top_level
-    @all_top_level ||=
+  def self.all_webinars
+    @all_webinars ||=
       Webinar.select { |web| !web.path.match(%r{\//}) }
   end
 
@@ -25,7 +25,7 @@ class Webinar < Cmless
     doc.inner_html
   end
 
-  def resources
+  def resources_html
     doc = Nokogiri::HTML::DocumentFragment.parse(@resources_html)
     doc.inner_html
   end
