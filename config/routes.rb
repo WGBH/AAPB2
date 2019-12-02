@@ -58,7 +58,7 @@ Rails.application.routes.draw do
   get '/plain_override/*path', to: 'plain_override#show', constraints: override_constraints
   get '/topical_resources', to: 'topical_resources#index'
   get '/downloadable_resources', to: 'downloadable_resources#index'
-  get '/resource_sets', to: 'resource_sets#index'
+  get '/educator_resources', to: 'educator_resources#index'
 
   # NET Catalog is now a SpecialCollection, so redirecting there.
   # This need to be above the '/*path' route below, otherwise it won't work.

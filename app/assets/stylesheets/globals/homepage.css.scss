@@ -363,7 +363,7 @@
     }
 
     /* Home Jumbotron - Resource Sets */
-    #resource_sets {
+    #educator_resources {
         background-color:rgb(158,32,100);
         background-image:none;
         &:after { background-color:rgba(158,32,100,.85); }
@@ -501,7 +501,7 @@
         }
 
         /* Home Jumbotron - Resource Sets */
-        #resource_sets {
+        #educator_resources {
             /* TODO: a different, distinct image? */
             background-image:url(/home-bg/home-one.jpg);
         }

@@ -8,7 +8,7 @@ class DownloadableResourcesController < ApplicationController
 
   def all_downloadable_resources
     Rails.cache.fetch('downloadable_resources') do
-      YAML.load_file(Rails.root + 'lib/resource_sets/downloadable_resources.yml')
+      YAML.load_file(Rails.root + 'lib/educator_resources/downloadable_resources.yml')
     end
   end
 end

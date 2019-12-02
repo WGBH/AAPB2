@@ -8,7 +8,7 @@ class TopicalResourcesController < ApplicationController
 
   def all_topical_resources
     Rails.cache.fetch('topical_resources') do
-      YAML.load_file(Rails.root + 'lib/resource_sets/topical_resources.yml')
+      YAML.load_file(Rails.root + 'lib/educator_resources/topical_resources.yml')
     end
   end
 end

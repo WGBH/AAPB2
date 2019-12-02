@@ -1,10 +1,10 @@
 <%=
     render layout: 'home/carousel',
            locals: {
-                    id: 'resource-sets-carousel',
-                    items: ResourceSetsHelper.all_resource_sets,
+                    id: 'educator-resources-carousel',
+                    items: EducatorResourcesHelper.all_educator_resources,
                     view_all: 'View All Resources',
-                    view_all_href: '/exhibits'
+                    view_all_href: '/educator_resources'
                    } do |item| %>
 
   <a href='<%= "#{item['path']}" %>' class="list-group-item" >
