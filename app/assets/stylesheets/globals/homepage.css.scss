@@ -362,6 +362,13 @@
         &:after { background-color:rgba(239,63,55,.85); }
     }
 
+    /* Home Jumbotron - Resource Sets */
+    #resource_sets {
+        background-color:rgb(158,32,100);
+        background-image:none;
+        &:after { background-color:rgba(158,32,100,.85); }
+    }
+
     /*Browse THe Collection*/
     .browsable ul a {
         transition: all .1s ease-in-out;
@@ -491,6 +498,12 @@
         /* Home Jumbotron - Curated Exhibits */
         #exhibits {
             background-image:url(/home-bg/home-three.jpg);
+        }
+
+        /* Home Jumbotron - Resource Sets */
+        #resource_sets {
+            /* TODO: a different, distinct image? */
+            background-image:url(/home-bg/home-one.jpg);
         }
 
         /* FLoating Navigation on Homepage */
