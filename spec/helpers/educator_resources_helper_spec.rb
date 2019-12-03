@@ -4,7 +4,7 @@ require 'active_support'
 describe EducatorResourcesHelper do
   let(:memory_store) { ActiveSupport::Cache.lookup_store(:memory_store) }
   let(:cache) { Rails.cache }
-  let(:educator_resources_keys) { [ "title", "path", "thumbnail" ] }
+  let(:educator_resources_keys) { %w( title path thumbnail ) }
 
   before do
     allow(Rails).to receive(:cache).and_return(memory_store)
