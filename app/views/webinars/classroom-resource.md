@@ -6,9 +6,9 @@
 
 ## Summary
 
-The American Archive of Public Broadcasting (AAPB), a collaboration between the Library of Congress and WGBH, preserves historic programming created by public media and provides a central web portal for access to these unique programs. Over 50,000 items are available in the AAPB Online Reading Room, including coverage of the [Watergate Hearings](/exhibits/watergate), education, women’s history, [climate change](/exhibits/climate-change), [elections and civics](/exhibits/presidential-elections), [protesting in America](/exhibits/first-amendment), [civil rights](/exhibits/civil-rights), and much more!
+The American Archive of Public Broadcasting (AAPB), a collaboration between the Library of Congress and WGBH, preserves historic programming created by public media and provides a central web portal for access to these unique programs. Over 50,000 items are available in the AAPB Online Reading Room, including coverage of the [Watergate Hearings](/exhibits/watergate), education, [women’s](/special_collections/woman-series) and [LGBTQ history](/special_collections/lgbt), [climate change](/exhibits/climate-change), [elections](/exhibits/presidential-elections) and civics, [protesting in America](/exhibits/first-amendment), [social movements](/exhibits/civil-rights), cultural events, [local history](/participating-orgs) and much more!
 
-The ‘How to Use AAPB as a Resource in the Classroom’ webinar guides you through how you and your students can take advantage of historic local and national news and cultural programs, talk shows, documentaries, and raw interviews produced by hundreds of public media organizations across the nation, covering many of America’s most historical and culturally significant events of the 20th and 21st centuries.
+The '**How to Use AAPB as a Resource in the Classroom**' webinar guides you through how you and your students can take advantage of historic local and national news and cultural programs, talk shows, documentaries, and raw interviews produced by hundreds of public media organizations across the nation, covering many of America’s most historical and culturally significant events of the 20th and 21st centuries.
 
 **Webinar Objectives**
 
