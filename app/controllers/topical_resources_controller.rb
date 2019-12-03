@@ -1,6 +1,6 @@
 class TopicalResourcesController < ApplicationController
   def index
-    @topical_resources = all_topical_resources.sort_by{ |key| key["date"]}.reverse
+    @topical_resources = all_topical_resources.sort_by { |key| key["date"] }.reverse
     @page_title = 'Topical Resources'
   end
 
