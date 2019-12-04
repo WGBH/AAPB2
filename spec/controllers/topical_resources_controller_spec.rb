@@ -6,7 +6,7 @@ describe TopicalResourcesController do
 
     it 'gets data in the expected format' do
       get 'index'
-      expect(assigns(:topical_resources).map(&:keys).flatten.uniq).to eq (expected_keys)
+      expect(assigns(:topical_resources).map(&:keys).flatten.uniq).to eq(expected_keys)
     end
   end
 end
