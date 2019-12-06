@@ -2,7 +2,7 @@ class TopicalResourcesController < ApplicationController
   def index
     @topical_resources = topical_resources.sort_by { |hash| hash["date"] }.reverse
     @years = topical_resources.map { |res| res["year"] }.uniq.sort.reverse
-    @page_title = 'Topical Resources'
+    @page_title = 'Topical Blog Posts'
   end
 
   private

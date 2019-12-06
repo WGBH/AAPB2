@@ -2,7 +2,7 @@ require 'rails_helper'
 
 describe TopicalResourcesController do
   describe 'index' do
-    let(:expected_keys) { %w( title link thumbnail date year ) }
+    let(:expected_keys) { %w( title link date year ) }
 
     it 'gets data in the expected format' do
       get 'index'

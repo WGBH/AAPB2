@@ -1,6 +1,6 @@
 ---
 
-- title: AAPB Webinars
+- title: Webinars for Educators
   path: /webinars
   thumbnail: https://s3.amazonaws.com/americanarchive.org/featured/Tile_Magenta.png
 - title: Special Collections
@@ -12,6 +12,6 @@
 - title: Downloadable Resources
   path: /downloadable_resources
   thumbnail: https://s3.amazonaws.com/americanarchive.org/featured/Tile_Purple.png
-- title: Topical Resources
+- title: Topical Blog Posts
   path: /topical_resources
   thumbnail: https://s3.amazonaws.com/americanarchive.org/featured/Tile_DarkBlue.png

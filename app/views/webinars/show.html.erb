@@ -35,8 +35,8 @@
       <div class="col-md-12 funders-resources-col">
         <% if !@webinar.resources_html.html_safe.blank? %>
           <div class="row resources-row">
-            <h2>Other Resources</h2>
-            <div class="col-md-12 collection-resources">
+            <div class="col-md-12">
+              <h2>Other Resources</h2>
               <%= @webinar.resources_html.html_safe %>
             </div>
           </div>

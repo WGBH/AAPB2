@@ -6,19 +6,17 @@
 
 ## Summary
 
-The American Archive of Public Broadcasting (AAPB), a collaboration between the Library of Congress and WGBH, preserves historic programming created by public media and provides a central web portal for access to these unique programs. Over 50,000 items are available in the AAPB Online Reading Room, including coverage of the [Watergate Hearings](/exhibits/watergate), education, [women’s](/special_collections/woman-series) and [LGBTQ history](/special_collections/lgbt), [climate change](/exhibits/climate-change), [elections](/exhibits/presidential-elections) and civics, [protesting in America](/exhibits/first-amendment), [social movements](/exhibits/civil-rights), cultural events, [local history](/participating-orgs) and much more!
+The ‘Use of AAPB in Humanities Research’ presentation was targeted toward academic librarians and covers how scholars can access and use the AAPB in various ways, including traditional humanities research as well as use in classrooms and digital humanities scholarship.
 
-The ‘Use of AAPB in Humanities Research’ webinar covers how scholars access and use public media archives, how to teach them to students, and mine them as a dataset for text, audio waveform analysis, image recognition, and machine learning.
+**Webinar Objectives**:
 
-**Webinar objectives include**:
-
-Learn how scholars are using audiovisual archives in their research, classrooms, and as a dataset
+Learn how scholars can use the American Archive of Public Broadcasting in research, classrooms, and as a dataset.
 
 This webinar was hosted in March 2018 by:
 
-* **Casey Davis-Kaufman**, AAPB Project Manager
-* **Mark Williams**, Associate Professor, Dartmouth College
-* **Ingrid Ockert**, Ph.D. Candidate, History of Science, Princeton University
+* **Casey Davis Kaufman**, Associate Director, WGBH Media Library and Archives and AAPB Project Manager
+* **Dr. Mark J. Williams**, Associate Professor of Film and Media Studies, Dartmouth College
+* **Dr. Ingrid Ockert**, Historian of Science and Media & Haas Fellow at the Science History Institute, Co-Chair of the AAPB Scholar Advisory Committee
 
 ## Resources
 
