@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Woman](https://s3.amazonaws.com/americanarchive.org/special-collections/Woman.jpg "Woman")
+![Accessibility](https://s3.amazonaws.com/americanarchive.org/featured/Tile_Magenta.png "Accessibility")
 
 ## Summary
 
@@ -19,8 +19,8 @@ Orient audiences to a wide breadth of tools, [special collections](/special_coll
 
 This webinar was hosted in March 2018 by:
 
-- **Casey Davis-Kaufman**, AAPB Project Manager
-– **Ryn Marchese**, AAPB Engagement and Use Manager
+* **Casey Davis-Kaufman**, AAPB Project Manager
+* **Ryn Marchese**, AAPB Engagement and Use Manager
 
 ## Resources
 

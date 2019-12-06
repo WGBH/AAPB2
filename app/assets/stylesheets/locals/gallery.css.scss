@@ -1,7 +1,6 @@
 /* Index View for Special Collections + Exhibits */
 
 .gallery-header {
-  background-image: url("https://s3.amazonaws.com/americanarchive.org/special-collections/special_collections_banner.jpg");
   max-width: 1172px;
   height: 60px;
   h1 {
@@ -14,9 +13,40 @@
   }
 }
 
+.gallery-header-bg-img {
+  background-image: url("https://s3.amazonaws.com/americanarchive.org/special-collections/special_collections_banner.jpg");
+}
+
+.gallery-header-special-collections {
+  background-image: url("https://s3.amazonaws.com/americanarchive.org/special-collections/special_collections_banner.jpg");
+}
+
+.gallery-header-webinars {
+  background-image: url("https://s3.amazonaws.com/americanarchive.org/webinars/banner_mag.jpg");
+}
+
+.gallery-header-topical-resources {
+  background-image: url("https://s3.amazonaws.com/americanarchive.org/topical_resources/banner_nav.jpg");
+}
+
+.gallery-header-downloadable-resources {
+  background-image: url("https://s3.amazonaws.com/americanarchive.org/downloadable_resources/banner_purp.jpg");
+}
+
 .gallery-intro {
   p {
     text-align: center;
+  }
+}
+
+.topical-resources-content {
+  text-align: center;
+  p {
+    margin: 0.5em;
+    text-align: justify;
+  }
+  h3 {
+    margin: 0.5em 0;
   }
 }
 

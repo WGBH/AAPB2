@@ -1,27 +1,34 @@
-<% content_for :main do %>
-  <div class="row">
-    <div class="col-md-12 gallery-intro">
-      <p>Links to AAPB blogs:</p>
+<div class="gallery-header gallery-header-topical-resources">
+  <h1><%=
+    # "title || @page_title" doesn't work
+    if defined? title
+      title
+    else
+      @page_title
+    end %></h1>
+</div>
+
+<div class="row">
+  <div class="region clearfix">
+
+    <!-- START: Main Column -->
+    <div class="row">
+      <div class="col-md-12 gallery-intro">
+        <p>Links to AAPB blogs:</p>
+      </div>
     </div>
-  </div>
-  <div class="row gallery-index" id="documents">
-    <% @topical_resources.each do |res| %>
-      <div class="gallery col-xs-12 col-sm-6 col-md-4">
-        <div class="gallery-thumbnail">
-          <a href="<%= res['link'] %>">
-            <img src="<%= res['thumbnail'] %>" alt="<%= res['title'] %>" aria-hidden="true">
-          </a>
+    <% @years.each do |year| %>
+      <div class="row">
+        <div class="col-md-12 topical-resources-content">
+          <h3><%= year %></h3>
+          <% @topical_resources.each do |res| %>
+            <% if res["year"] == year %>
+             <p><a href="<%= res['link'] %>" target="_blank"><%= res['title'] %></a></p>
+            <% end %>
+          <% end %>
         </div>
-        <h2 class="index-title">
-          <a href="<%= res['link'] %>" target="_blank"><%= res['title'] %></a>
-        </h2>
       </div>
     <% end %>
-  </div>
-<% end %>
 
-<%= render partial: 'shared/gallery_title',
-           locals: {
-            title: 'Topical Resources',
-            main: yield(:main)
-           } %>
+  </div>
+</div>

@@ -1,27 +1,35 @@
-<% content_for :main do %>
-  <div class="row">
-    <div class="col-md-12 gallery-intro">
-      <p>The American Archive of Public Broadcasting (AAPB) provides additional resources as supplementary materials for webinars, conferences, or guides. These resources are available for download and below are links to these materials within the context of their original creation. </p>
+<div class="gallery-header gallery-header-downloadable-resources">
+  <h1><%=
+    # "title || @page_title" doesn't work
+    if defined? title
+      title
+    else
+      @page_title
+    end %></h1>
+</div>
+
+<div class="row">
+  <div class="region clearfix">
+
+    <!-- START: Main Column -->
+    <div class="row">
+      <div class="col-md-12 gallery-intro">
+        <p>The American Archive of Public Broadcasting (AAPB) provides additional resources as supplementary materials for webinars, conferences, or guides. These resources are available for download and below are links to these materials within the context of their original creation. </p>
+      </div>
+    </div>
+    <div class="row gallery-index" id="documents">
+      <% @downloadable_resources.each do |res| %>
+        <div class="gallery col-xs-12 col-sm-6 col-md-4">
+          <div class="gallery-thumbnail">
+            <a href="<%= res['link'] %>">
+              <img src="<%= res['thumbnail'] %>" alt="<%= res['title'] %>" aria-hidden="true">
+            </a>
+          </div>
+          <h2 class="index-title">
+            <a href="<%= res['link'] %>" target="_blank"><%= res['title'] %></a>
+          </h2>
+        </div>
+      <% end %>
     </div>
   </div>
-  <div class="row gallery-index" id="documents">
-    <% @downloadable_resources.each do |res| %>
-      <div class="gallery col-xs-12 col-sm-6 col-md-4">
-        <div class="gallery-thumbnail">
-          <a href="<%= res['link'] %>">
-            <img src="<%= res['thumbnail'] %>" alt="<%= res['title'] %>" aria-hidden="true">
-          </a>
-        </div>
-        <h2 class="index-title">
-          <a href="<%= res['link'] %>" target="_blank"><%= res['title'] %></a>
-        </h2>
-      </div>
-    <% end %>
-  </div>
-<% end %>
-
-<%= render partial: 'shared/gallery_title',
-           locals: {
-            title: 'Downloadable Resources',
-            main: yield(:main)
-           } %>
+</div>

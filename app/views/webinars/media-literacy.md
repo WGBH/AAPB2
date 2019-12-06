@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Woman](https://s3.amazonaws.com/americanarchive.org/special-collections/Woman.jpg "Woman")
+![Media Literacy](https://s3.amazonaws.com/americanarchive.org/featured/Tile_Periwinkle.png "Media Literacy")
 
 ## Summary
 

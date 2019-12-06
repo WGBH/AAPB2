@@ -2,16 +2,16 @@
 
 - title: AAPB Webinars
   path: /webinars
-  thumbnail: https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_StationHistories_image0.jpg
+  thumbnail: https://s3.amazonaws.com/americanarchive.org/featured/Tile_Magenta.png
 - title: Special Collections
   path: /special_collections
-  thumbnail: https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_StationHistories_image0.jpg
+  thumbnail: https://s3.amazonaws.com/americanarchive.org/featured/Tile_DarkPurple.png
 - title: AAPB Exhibits
   path: /exhibits
-  thumbnail: https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_StationHistories_image0.jpg
+  thumbnail: https://s3.amazonaws.com/americanarchive.org/featured/Tile_Red.png
 - title: Downloadable Resources
   path: /downloadable_resources
-  thumbnail: https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_StationHistories_image0.jpg
+  thumbnail: https://s3.amazonaws.com/americanarchive.org/featured/Tile_Purple.png
 - title: Topical Resources
   path: /topical_resources
-  thumbnail: https://s3.amazonaws.com/americanarchive.org/exhibits/AAPB_Exhibit_StationHistories_image0.jpg
+  thumbnail: https://s3.amazonaws.com/americanarchive.org/featured/Tile_DarkBlue.png

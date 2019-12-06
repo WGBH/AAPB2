@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Woman](https://s3.amazonaws.com/americanarchive.org/special-collections/Woman.jpg "Woman")
+![Classroom Resource](https://s3.amazonaws.com/americanarchive.org/featured/Tile_Red.png "Classroom Resource")
 
 ## Summary
 
