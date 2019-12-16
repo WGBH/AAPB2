@@ -8,7 +8,7 @@
     <% @educator_resources.each do |res| %>
       <div class="gallery col-xs-12 col-sm-6 col-md-4">
         <div class="gallery-thumbnail">
-          <a href="<%= res['link'] %>">
+          <a href="<%= res['path'] %>">
             <img src="<%= res['thumbnail'] %>" alt="<%= res['title'] %>" aria-hidden="true">
           </a>
         </div>

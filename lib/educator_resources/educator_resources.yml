@@ -1,17 +1,11 @@
 ---
 
-- title: Webinars for Educators
-  path: /webinars
-  thumbnail: https://s3.amazonaws.com/americanarchive.org/featured/Tile_Magenta.png
-- title: Special Collections
-  path: /special_collections
-  thumbnail: https://s3.amazonaws.com/americanarchive.org/featured/Tile_DarkPurple.png
-- title: AAPB Exhibits
-  path: /exhibits
-  thumbnail: https://s3.amazonaws.com/americanarchive.org/featured/Tile_Red.png
-- title: Downloadable Resources
-  path: /downloadable_resources
-  thumbnail: https://s3.amazonaws.com/americanarchive.org/featured/Tile_Purple.png
 - title: Topical Blog Posts
   path: /topical_resources
   thumbnail: https://s3.amazonaws.com/americanarchive.org/featured/Tile_DarkBlue.png
+- title: Webinars for Educators
+  path: /webinars
+  thumbnail: https://s3.amazonaws.com/americanarchive.org/featured/Tile_Magenta.png
+- title: Downloadable Resources
+  path: /downloadable_resources
+  thumbnail: https://s3.amazonaws.com/americanarchive.org/featured/Tile_Purple.png

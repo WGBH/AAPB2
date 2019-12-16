@@ -1,0 +1,28 @@
+/* Index View for Topical Resources */
+
+.topical-resources-breadcrumb {
+  padding: 15px 0;
+  list-style: none;
+  margin: 0;
+  li {
+    display: inline-block;
+    color: rgb(48,31,114);
+  }
+  li:before {
+    content: "\25C2";
+    color: rgb(48,31,114);
+    padding: 0 5px;
+  }
+}
+
+.topical-resources-content {
+  text-align: center;
+  p {
+    margin: 0.5em;
+    text-align: justify;
+  }
+  h3 {
+    margin: 0.5em 0;
+  }
+}
+
