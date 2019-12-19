@@ -2,10 +2,10 @@
 
 - title: Topical Blog Posts
   path: /topical_resources
-  thumbnail: https://s3.amazonaws.com/americanarchive.org/featured/Tile_DarkBlue.png
+  thumbnail: https://s3.amazonaws.com/americanarchive.org/featured/Topical.jpg
 - title: Webinars for Educators
   path: /webinars
-  thumbnail: https://s3.amazonaws.com/americanarchive.org/featured/Tile_Magenta.png
+  thumbnail: https://s3.amazonaws.com/americanarchive.org/featured/Webinars.jpg
 - title: Downloadable Resources
   path: /downloadable_resources
-  thumbnail: https://s3.amazonaws.com/americanarchive.org/featured/Tile_Purple.png
+  thumbnail: https://s3.amazonaws.com/americanarchive.org/featured/Downloadable.png
