@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Media Literacy](https://s3.amazonaws.com/americanarchive.org/featured/Tile_Periwinkle.png "Media Literacy")
+![Media Literacy](https://s3.amazonaws.com/americanarchive.org/webinars/AAPB_DigLib.png "Media Literacy")
 
 ## Summary
 

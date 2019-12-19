@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Accessibility](https://s3.amazonaws.com/americanarchive.org/featured/Tile_Magenta.png "Accessibility")
+![Accessibility](https://s3.amazonaws.com/americanarchive.org/webinars/AcademicLibraries.png "Accessibility")
 
 ## Summary
 

@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Classroom Resource](https://s3.amazonaws.com/americanarchive.org/featured/Tile_Red.png "Classroom Resource")
+![Classroom Resource](https://s3.amazonaws.com/americanarchive.org/webinars/Resource_Classroom.png "Classroom Resource")
 
 ## Summary
 

@@ -2,7 +2,7 @@
 
 ## Thumbnail
 
-![Humanities](https://s3.amazonaws.com/americanarchive.org/featured/Tile_DarkBlue.png "Humanities")
+![Humanities](https://s3.amazonaws.com/americanarchive.org/webinars/HumanitiesResearch.png "Humanities")
 
 ## Summary
 
