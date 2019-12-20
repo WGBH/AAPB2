@@ -9,3 +9,6 @@
 - title: Downloadable Resources
   path: /downloadable_resources
   thumbnail: https://s3.amazonaws.com/americanarchive.org/featured/Downloadable.png
+- title: Connect with us!
+  path: /contact-us
+  thumbnail: https://s3.amazonaws.com/americanarchive.org/featured/Connect.png
