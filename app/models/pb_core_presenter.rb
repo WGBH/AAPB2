@@ -110,6 +110,9 @@ class PBCorePresenter
   def special_collections
     @special_collections ||= xpaths('/*/pbcoreAnnotation[@annotationType="special_collections"]')
   end
+  def special_collections_categories
+    @special_collections_categories ||= xpaths('/*/pbcoreAnnotation[@annotationType="Special Collection Category"]')
+  end
   def id
     # Solr IDs need to have "cpb-aacip_" instead of "cpb_aacip/" for proper lookup in Solr.
     # Some IDs (e.g. Mississippi) may have "cpb-aacip-", but that's OK.
@@ -456,6 +459,7 @@ class PBCorePresenter
       # facets:
       'exhibits' => exhibits.map(&:path),
       'special_collections' => special_collections,
+      'special_collections_categories' => special_collections_categories,
       'media_type' => media_type == OTHER ? nil : media_type,
       'genres' => genres,
       'topics' => topics,
@@ -486,9 +490,9 @@ class PBCorePresenter
       :text, :to_solr, :contribs, :img_src, :media_srcs,
       :captions_src, :transcript_src, :rights_code,
       :access_level, :access_types, :title, :ci_ids, :display_ids,
-      :instantiations, :outside_url,
-      :reference_urls, :exhibits, :special_collections, :access_level_description,
-      :img_height, :img_width, :player_aspect_ratio,
+      :instantiations, :outside_url, :reference_urls, :exhibits,
+      :special_collections, :special_collections_categories,
+      :access_level_description, :img_height, :img_width, :player_aspect_ratio,
       :player_specs, :transcript_status, :transcript_content, :constructed_transcript_src,
       :playlist_group, :playlist_order, :playlist_map,
       :playlist_next_id, :playlist_prev_id, :supplemental_content, :contributing_organization_names,

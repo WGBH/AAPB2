@@ -528,6 +528,8 @@
 
  <field name="special_collections" type="string" indexed="true" stored="true" multiValued="true"/>
 
+ <field name="special_collections_categories" type="string" indexed="true" stored="true" multiValued="true"/>
+
   <!-- Nothing below needs to be stored. -->
 
   <!-- default, catch all search field -->
