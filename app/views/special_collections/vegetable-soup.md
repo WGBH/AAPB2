@@ -39,11 +39,11 @@ Records are described at an item level and all records contain brief description
 
 Most of the records in the collection include two episodes, placed back-to-back.
 
-## Terms
+## Categories
 
 
 ## Timeline
 
-## Sort 
+## Sort
 
 asset_date+asc

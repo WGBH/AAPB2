@@ -37,7 +37,7 @@ Records are described at an item level and all records contain brief description
 
 Seven of the recordings in the collection are multi-part conversations with a single interviewee.
 
-## Terms
+## Categories
 
 ## Timeline
 

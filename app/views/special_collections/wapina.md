@@ -1,5 +1,5 @@
 # War and Peace in the Nuclear Age
- 
+
 ## Thumbnail
 
 ![War and Peace in the Nuclear Age](https://s3.amazonaws.com/americanarchive.org/special-collections/WAPINA_Poster.jpg "WarandPeace")
@@ -7,7 +7,7 @@ Poster Artwork Courtesy of Jan Sawka, 1988.
 
 ## Summary
 
-The <em>War and Peace in the Nuclear Age</em> Interviews Collection includes 334 full interviews from the PBS series of the same name. The series, originally broadcast in thirteen parts in 1989, examined the nuclear competition between the US and the Soviet Union spanning the period between World War II to 1989. Weekly episodes took a chronological look at specific periods during the nuclear arms race and the Cold War, including the launch of Sputnik, the negotiation of SALT I, the MX Missile, and the global arms race in the UK, France, China, India, and Pakistan. <em>War and Peace in the Nuclear Age</em> was a co-production between WGBH, Central TV in the UK, and NHK in Japan. The collection includes interviews with diplomats, activists, politicians, scientists, and heads of state, including former US President Jimmy Carter; Yitzhak Rabin, former Prime Minister of Israel; Raja Ramanna, a physicist who worked on India’s nuclear program; Zbigniew Brzezinski, National Security Advisor under Carter; Petra Kelly, founder of the German Green Party; and Gennady Gerasimov, former Russian ambassador and foreign affairs spokesman for Mikhail Gorbachev. Subjects in the collection include global politics, the Cold War, nuclear missiles, ethics, physics, NATO, the space race, and nuclear proliferation. 
+The <em>War and Peace in the Nuclear Age</em> Interviews Collection includes 334 full interviews from the PBS series of the same name. The series, originally broadcast in thirteen parts in 1989, examined the nuclear competition between the US and the Soviet Union spanning the period between World War II to 1989. Weekly episodes took a chronological look at specific periods during the nuclear arms race and the Cold War, including the launch of Sputnik, the negotiation of SALT I, the MX Missile, and the global arms race in the UK, France, China, India, and Pakistan. <em>War and Peace in the Nuclear Age</em> was a co-production between WGBH, Central TV in the UK, and NHK in Japan. The collection includes interviews with diplomats, activists, politicians, scientists, and heads of state, including former US President Jimmy Carter; Yitzhak Rabin, former Prime Minister of Israel; Raja Ramanna, a physicist who worked on India’s nuclear program; Zbigniew Brzezinski, National Security Advisor under Carter; Petra Kelly, founder of the German Green Party; and Gennady Gerasimov, former Russian ambassador and foreign affairs spokesman for Mikhail Gorbachev. Subjects in the collection include global politics, the Cold War, nuclear missiles, ethics, physics, NATO, the space race, and nuclear proliferation.
 
 ## Background
 
@@ -30,15 +30,15 @@ Items in the <em>War and Peace in the Nuclear Age</em> Interviews Collection wer
 - [<em>The 1995 NPT Review and Extension Conference</em> Collection, Wilson Center Archive](https://digitalarchive.wilsoncenter.org/collection/496/The-1995-NPT-Review-and-Exchange-Conference)
 
 
-## Funders 
+## Funders
 
 ## Help
 
-Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box. 
+Records are described at an item level and all records contain brief descriptions and subject terms. Search by keyword or individual, or browse all episodes by clicking “Explore the Collection” below the search box.
 
-Some items in the collection are multi-part conversations with a single interviewee. 
+Some items in the collection are multi-part conversations with a single interviewee.
 
-## Terms
+## Categories
 
 ## Timeline
 

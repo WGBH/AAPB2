@@ -16,13 +16,13 @@
       <div class="search-help">
         <%= link_to "Need Help Searching?", "#", data: { toggle: "modal", target: "#searchHelpModal" }  %>
       </div>
-      <% if !@special_collection.terms.empty? %>
+      <% if !@special_collection.categories.empty? %>
         <div class="row suggested-topics">
           <div class="col-md-6 topics-text">
-            <div class="suggested">Suggested Searches:</div>
+            <div class="suggested">Categories:</div>
           </div>
           <div class="col-md-6 topics-text">
-            <%= @special_collection.terms.map{ |term| link_to(term[0], term[1]) }.join(', ').html_safe %>
+            <%= @special_collection.categories.map{ |category| link_to(category[0], category[1]) }.join(', ').html_safe %>
           </div>
         </div>
 

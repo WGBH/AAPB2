@@ -36,7 +36,7 @@ In 2016, Vision Maker Media celebrated its 40th anniversary by collaborating wit
 
 Most of the films in this collection are available in the Online Reading Room, and the entire collection is accessible on location at the Library of Congress and WGBH. Records are described at an item level and all records contain brief descriptions. Search by keyword or browse all episodes by clicking “Explore the Collection” below the search box.
 
-## Terms
+## Categories
 
 
 ## Timeline

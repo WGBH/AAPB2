@@ -38,7 +38,7 @@ Visit our [Tribute to Jim Lehrer](https://americanarchive.org/a-tribute-to-jim-l
 
 Records are described at an item level, and most records for digitized items have complete text transcripts. Searches by date, year or topic will yield useful results.
 
-## Terms
+## Categories
 
 
 ## Timeline

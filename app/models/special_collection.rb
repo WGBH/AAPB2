@@ -12,7 +12,7 @@ class SpecialCollection < Cmless
   attr_reader :featured_html
   attr_reader :funders_html
   attr_reader :help_html
-  attr_reader :terms_html
+  attr_reader :categories_html
   attr_reader :timeline_html
   attr_reader :sort_html
 
@@ -79,12 +79,12 @@ class SpecialCollection < Cmless
     doc.inner_html
   end
 
-  def terms
-    @terms ||=
-      Nokogiri::HTML(terms_html).xpath('//a').map do |el|
+  def categories
+    @categories ||=
+      Nokogiri::HTML(categories_html).xpath('//li').map do |el|
         [
           el.text,
-          el.attribute('href').to_s
+          category_url(el.text)
         ]
       end
   end
@@ -111,6 +111,11 @@ class SpecialCollection < Cmless
   def sort_url
     @sort_url ||=
       !@sort_html.empty? ? '/catalog?sort=' + sort_by + '&f[special_collections][]=' + path : '/catalog?sort=asset_date+asc&f[special_collections][]=' + path
+  end
+
+  def category_url(category)
+    @category_url ||= "/catalog?f[special_collections][]=" + path + "&sort=title%20asc&f[special_collections_categories][]=" + "#{category}"
+
   end
 
   def self.valid_collection?(collection_name)

@@ -27,12 +27,12 @@
             <div class="collection-search-help col-md-3 col-sm-4 col-xs-12">
               <%= link_to "Need Help Searching?", "#", data: { toggle: "modal", target: "#searchHelpModal" }  %>
             </div>
-            <% if !@special_collection.terms.empty? %>
+            <% if !@special_collection.categories.empty? %>
               <div class="col-md-3 col-md-offset-2 col-sm-4 col-xs-12 collection-suggested-search">
                 Suggested Searches:
               </div>
               <div class="col-md-4 col-sm-4 col-xs-12 collection-suggested-search">
-                <%= special_collection.terms.map{ |term| link_to(term[0], term[1]) }.join(', ').html_safe %>
+                <%= special_collection.categories.map{ |category| link_to(category[0], category[1]) }.join(', ').html_safe %>
               </div>
             <% end %>
           </div>
