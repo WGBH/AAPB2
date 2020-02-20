@@ -92,11 +92,11 @@ describe SpecialCollection do
       end
     end
 
-    describe '.terms' do
-      it 'returns the terms of the collection' do
-        expect(collection.terms).to eq([
-          ['Term 1', 'https://www.google.com/'],
-          ['Term 2', 'https://www.google.com/']
+    describe '.categories' do
+      it 'returns the categories and category search urls of the collection' do
+        expect(collection.categories).to eq([
+          ['Category 1', "/catalog?f[special_collections][]=test-special-collection&sort=title%20asc&f[special_collections_categories][]=Category 1"],
+          ['Category 2', "/catalog?f[special_collections][]=test-special-collection&sort=title%20asc&f[special_collections_categories][]=Category 2"]
         ])
       end
     end
@@ -125,9 +125,9 @@ describe SpecialCollection do
       end
     end
 
-    describe '.terms_html' do
-      it 'returns the terms html for the collection' do
-        expect(collection.terms_html).to eq("<ul>\n<li><a href=\"https://www.google.com/\">Term 1</a></li>\n<li><a href=\"https://www.google.com/\">Term 2</a></li>\n</ul>")
+    describe '.categories_html' do
+      it 'returns the categories html for the collection' do
+        expect(collection.categories_html).to eq("<ul>\n" + "<li>Category 1</li>\n" + "<li>Category 2</li>\n" + "</ul>")
       end
     end
 
@@ -170,6 +170,12 @@ describe SpecialCollection do
     describe '.sort_url' do
       it 'returns the sort url for the collection' do
         expect(collection.sort_url).to eq('/catalog?sort=asset_date+desc&f[special_collections][]=test-special-collection')
+      end
+    end
+
+    describe '.category_url' do
+      it 'returns the category url for the collection' do
+        expect(collection.category_url('Category 3')).to eq("/catalog?f[special_collections][]=test-special-collection&sort=title%20asc&f[special_collections_categories][]=Category 3")
       end
     end
 

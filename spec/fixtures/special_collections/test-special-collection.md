@@ -30,10 +30,10 @@ Test Producer Description
 
 This is the search help text.
 
-## Terms
+## Categories
 
-- [Term 1](https://www.google.com/)
-- [Term 2](https://www.google.com/)
+- Category 1
+- Category 2
 
 ## Timeline
 

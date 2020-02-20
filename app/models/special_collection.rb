@@ -88,7 +88,6 @@ class SpecialCollection < Cmless
         ]
       end
   end
-
   def timeline_html
     doc = Nokogiri::HTML::DocumentFragment.parse(@timeline_html)
     doc.inner_html
@@ -114,8 +113,7 @@ class SpecialCollection < Cmless
   end
 
   def category_url(category)
-    @category_url ||= "/catalog?f[special_collections][]=" + path + "&sort=title%20asc&f[special_collections_categories][]=" + "#{category}"
-
+    "/catalog?f[special_collections][]=" + path + "&sort=title%20asc&f[special_collections_categories][]=" + "#{category}"
   end
 
   def self.valid_collection?(collection_name)
