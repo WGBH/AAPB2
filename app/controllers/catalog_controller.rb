@@ -247,7 +247,7 @@ class CatalogController < ApplicationController
           @available_and_playable = !@pbcore.media_srcs.empty? && !@pbcore.outside_url
 
           if @pbcore.proxy_start_time && params["proxy_start_time"].nil?
-            redirect_to catalog_path(params["id"], proxy_start_time: @pbcore.proxy_start_time) and return
+            redirect_to catalog_path(params["id"], proxy_start_time: @pbcore.proxy_start_time) && return
           end
         end
 

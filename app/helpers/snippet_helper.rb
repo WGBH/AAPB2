@@ -1,4 +1,5 @@
 module SnippetHelper
+
   def self.build_snippets(solr_documents:, query:, matches:)
     snippets = {}
     solr_documents.each do |solr_doc|

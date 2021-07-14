@@ -297,11 +297,8 @@ class PBCorePresenter
     transcript_status == PBCorePresenter::CORRECT_TRANSCRIPT
   end
   def transcript_html
-    if transcript_src
-      return TranscriptFile.new(transcript_src).html
-    elsif CaptionFile.new(id).captions_src
-      return  CaptionFile.new(id).html
-    end
+    return TranscriptFile.new(transcript_src).html if transcript_src
+    return  CaptionFile.new(id).html if CaptionFile.new(id).captions_src
     nil
   end
   def transcript_message
